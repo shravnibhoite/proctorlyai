@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proctorly AI - Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <style>
+        .role-toggle {
+            display: flex;
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 8px;
+            padding: 4px;
+            margin-bottom: 24px;
+        }
+        .toggle-btn {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            background: transparent;
+            color: var(--text-muted);
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+        .toggle-btn.active {
+            background: var(--primary);
+            color: white;
+            box-shadow: 0 2px 8px rgba(59, 130, 246, 0.4);
+        }
+        .login-subtitle {
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 24px;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body class="auth-page">
+    <!-- Interactive 3D Background covers entire screen -->
+    <div id="canvas-container"></div>
+
+    <div class="auth-layout">
+        
+        <!-- Branding Top Center -->
+        <div class="auth-branding" style="text-align: center; margin-bottom: 40px;">
+            <h1 class="auth-title">Proctorly AI</h1>
+            <p class="auth-subtitle" style="margin: 0 auto;">
+                Advanced AI-powered exam proctoring built upon cutting-edge facial recognition, 
+                gaze tracking, and behavioral analysis. Ensure academic integrity seamlessly.
+            </p>
+        </div>
+
+        <!-- Auth Form Center -->
+        <div class="glass-card">
+            <h2 style="text-align: center; margin-bottom: 8px; font-weight:700;">Welcome Back</h2>
+            <p class="login-subtitle">Please select your portal to continue.</p>
+            
+            <div class="role-toggle">
+                <button id="tab-student" class="toggle-btn active" onclick="setRole('student')">Student</button>
+                <button id="tab-teacher" class="toggle-btn" onclick="setRole('admin')">Teacher</button>
+            </div>
+            
+            <input type="text" id="username" placeholder="Username" style="margin-bottom: 16px;">
+            <input type="password" id="password" placeholder="Password" style="margin-bottom: 24px;">
+            
+            <button id="btn-login" class="btn btn-primary" style="width: 100%;">Login to Portal</button>
+            
+            <p style="text-align: center; margin-top: 24px; font-size: 0.9rem;">
+                Don't have an account? <a href="/register" style="color: var(--primary); font-weight:600; text-decoration: none;">Register Here</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- Background 3D Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
+    
+    <!-- Page Logic & Animations -->
+    <script src="/static/js/auth.js"></script>
+    <script type="module">
+        // 1. Initialize Vanta 3D Background
+        VANTA.NET({
+            el: "#canvas-container",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x3b82f6,
+            backgroundColor: 0x000000,
+            points: 12.00,
+            maxDistance: 22.00,
+            spacing: 18.00
+        });
+
+        // 2. Framer Motion Animations via Motion JS
+        import { animate, spring } from "https://cdn.jsdelivr.net/npm/motion@11.11.13/+esm";
+
+        // Initial Card Reveal
+        animate(".glass-card", 
+            { y: [40, 0], opacity: [0, 1] }, 
+            { duration: 0.8, easing: spring({ stiffness: 100, damping: 15 }) }
+        );
+
+        // Initial Branding Reveal
+        animate(".auth-branding", 
+            { x: [-50, 0], opacity: [0, 1] }, 
+            { duration: 1, delay: 0.2, easing: spring({ stiffness: 100, damping: 20 }) }
+        );
+
+        // Export animation helper to global window for role toggling
+        window.triggerBounce = () => {
+            animate(".glass-card", { scale: [0.98, 1] }, { duration: 0.3, easing: "ease-out" });
+        };
+    </script>
+    
+    <script>
+        let currentRole = 'student';
+
+        function setRole(role) {
+            currentRole = role;
+            document.getElementById('tab-student').classList.remove('active');
+            document.getElementById('tab-teacher').classList.remove('active');
+            
+            if (role === 'student') {
+                document.getElementById('tab-student').classList.add('active');
+                document.getElementById('btn-login').innerText = 'Login to Student Portal';
+            } else {
+                document.getElementById('tab-teacher').classList.add('active');
+                document.getElementById('btn-login').innerText = 'Login to Teacher Portal';
+            }
+            
+            // Trigger motion animation slightly
+            if (window.triggerBounce) window.triggerBounce();
+        }
+
+        document.getElementById('btn-login').addEventListener('click', async () => {
+            const u = document.getElementById('username').value;
+            const p = document.getElementById('password').value;
+            
+            if(!u || !p) return alert("Please fill all fields");
+            
+            // Re-enable loading state visually
+            const btn = document.getElementById('btn-login');
+            const originalText = btn.innerText;
+            btn.innerText = "Authenticating...";
+            btn.disabled = true;
+
+            try {
+                const res = await fetch(`/api/login`, { 
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username: u, password: p, role: currentRole })
+                });
+                if(res.ok) {
+                    const data = await res.json();
+                    localStorage.setItem('proctorly_user', JSON.stringify(data));
+                    
+                    if(data.role === 'admin') {
+                        window.location.href = "/admin";
+                    } else {
+                        window.location.href = "/dashboard";
+                    }
+                } else {
+                    const err = await res.json();
+                    alert(err.detail || "Authentication Failed");
+                }
+            } catch(e) {
+                alert("Login Error: Could not connect to server.");
+            } finally {
+                btn.innerText = originalText;
+                btn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

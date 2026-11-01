@@ -1,0 +1,1350 @@
+2026-03-16 19:35:37,672 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 19:40:57,088 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 19:40:57,096 - proctorly - INFO - Initializing Database...
+2026-03-16 19:41:57,349 - proctorly - INFO - Loaded face encoding for user 1
+2026-03-16 19:41:57,353 - proctorly - INFO - Started exam session 1 for user 1
+2026-03-16 19:42:06,249 - proctorly - INFO - Client disconnected from lesson 1
+2026-03-16 19:42:06,269 - proctorly - INFO - Ended exam session 1 with status completed and risk 0.0
+2026-03-16 19:42:06,291 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_1.pdf
+2026-03-16 19:43:18,055 - proctorly - INFO - Loaded face encoding for user 3
+2026-03-16 19:43:18,058 - proctorly - INFO - Started exam session 2 for user 3
+2026-03-16 19:43:19,343 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194319_342214.jpg
+2026-03-16 19:43:19,346 - proctorly - INFO - Logged event multiple_faces for session 2 (Severity: 35.0)
+2026-03-16 19:43:20,247 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194320_246818.jpg
+2026-03-16 19:43:20,250 - proctorly - INFO - Logged event multiple_faces for session 2 (Severity: 35.0)
+2026-03-16 19:43:21,260 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194321_258921.jpg
+2026-03-16 19:43:21,262 - proctorly - INFO - Logged event multiple_faces for session 2 (Severity: 35.0)
+2026-03-16 19:43:22,262 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194322_260330.jpg
+2026-03-16 19:43:22,262 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:23,264 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194323_263000.jpg
+2026-03-16 19:43:23,265 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:24,272 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194324_270908.jpg
+2026-03-16 19:43:24,272 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:25,279 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194325_277964.jpg
+2026-03-16 19:43:25,279 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:26,279 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194326_278328.jpg
+2026-03-16 19:43:26,280 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:27,281 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194327_279898.jpg
+2026-03-16 19:43:27,281 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:28,286 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194328_285176.jpg
+2026-03-16 19:43:28,286 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:29,290 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194329_289012.jpg
+2026-03-16 19:43:29,290 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:30,296 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194330_295742.jpg
+2026-03-16 19:43:30,297 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:31,303 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194331_302050.jpg
+2026-03-16 19:43:31,303 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:32,307 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260316_194332_306597.jpg
+2026-03-16 19:43:32,308 - proctorly - WARNING - Attempted to log event for invalid or inactive session 2
+2026-03-16 19:43:32,587 - proctorly - INFO - Client disconnected from lesson 2
+2026-03-16 19:43:32,600 - proctorly - INFO - Ended exam session 2 with status flagged and risk 100.0
+2026-03-16 19:43:32,675 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_2.pdf
+2026-03-16 19:43:44,598 - proctorly - INFO - Shutting down...
+2026-03-16 19:55:04,636 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 19:55:04,645 - proctorly - INFO - Initializing Database...
+2026-03-16 20:02:25,787 - proctorly - INFO - Shutting down...
+2026-03-16 20:10:19,671 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:10:19,683 - proctorly - INFO - Initializing Database...
+2026-03-16 20:14:40,556 - proctorly - INFO - Shutting down...
+2026-03-16 20:14:44,303 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:14:44,312 - proctorly - INFO - Initializing Database...
+2026-03-16 20:14:48,088 - proctorly - INFO - Shutting down...
+2026-03-16 20:14:51,025 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:14:51,033 - proctorly - INFO - Initializing Database...
+2026-03-16 20:15:15,501 - proctorly - INFO - Shutting down...
+2026-03-16 20:15:18,481 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:15:18,489 - proctorly - INFO - Initializing Database...
+2026-03-16 20:15:18,590 - proctorly - INFO - Shutting down...
+2026-03-16 20:15:21,138 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:15:21,145 - proctorly - INFO - Initializing Database...
+2026-03-16 20:15:50,657 - proctorly - INFO - Shutting down...
+2026-03-16 20:15:53,697 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:15:53,706 - proctorly - INFO - Initializing Database...
+2026-03-16 20:16:12,305 - proctorly - INFO - Shutting down...
+2026-03-16 20:16:15,214 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:16:15,222 - proctorly - INFO - Initializing Database...
+2026-03-16 20:20:54,802 - proctorly - INFO - Shutting down...
+2026-03-16 20:21:10,428 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:21:10,437 - proctorly - INFO - Initializing Database...
+2026-03-16 20:33:26,643 - proctorly - INFO - Shutting down...
+2026-03-16 20:33:30,385 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:33:30,393 - proctorly - INFO - Initializing Database...
+2026-03-16 20:35:34,550 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 20:35:34,558 - proctorly - INFO - Initializing Database...
+2026-03-16 23:32:45,521 - proctorly - INFO - Shutting down...
+2026-03-16 23:32:59,367 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-16 23:32:59,375 - proctorly - INFO - Initializing Database...
+2026-03-16 23:33:48,819 - proctorly - ERROR - Signup error: 
+2026-03-16 23:33:48,820 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-16 23:34:59,384 - proctorly - ERROR - Signup error: 
+2026-03-16 23:34:59,384 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-16 23:35:02,544 - proctorly - ERROR - Signup error: 
+2026-03-16 23:35:02,545 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:10:19,389 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:10:19,404 - proctorly - INFO - Initializing Database...
+2026-03-21 00:11:00,475 - proctorly - ERROR - Signup error: 
+2026-03-21 00:11:00,477 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:11:03,120 - proctorly - ERROR - Signup error: 
+2026-03-21 00:11:03,120 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:11,282 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:11,284 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:12,174 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:12,175 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:18,703 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:18,704 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:19,502 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:19,502 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:20,002 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:20,002 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:20,402 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:20,402 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:20,585 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:20,586 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:20,758 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:20,759 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:20,920 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:20,920 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:21,102 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:21,103 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:21,253 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:21,254 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:15:21,421 - proctorly - ERROR - Signup error: 
+2026-03-21 00:15:21,421 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:16:11,724 - proctorly - INFO - Shutting down...
+2026-03-21 00:16:17,156 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:16:17,164 - proctorly - INFO - Initializing Database...
+2026-03-21 00:16:44,218 - proctorly - ERROR - Signup error: 
+2026-03-21 00:16:44,219 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:20:16,519 - proctorly - INFO - Shutting down...
+2026-03-21 00:20:30,407 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:20:30,415 - proctorly - INFO - Initializing Database...
+2026-03-21 00:23:12,336 - proctorly - INFO - Shutting down...
+2026-03-21 00:23:15,219 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:23:15,227 - proctorly - INFO - Initializing Database...
+2026-03-21 00:24:29,828 - proctorly - INFO - Shutting down...
+2026-03-21 00:24:35,356 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:24:35,364 - proctorly - INFO - Initializing Database...
+2026-03-21 00:24:53,844 - proctorly - ERROR - Signup error: 
+2026-03-21 00:24:53,844 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:24:58,979 - proctorly - ERROR - Signup error: 
+2026-03-21 00:24:58,980 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:25:27,030 - proctorly - ERROR - Signup error: 
+2026-03-21 00:25:27,031 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:25:45,199 - proctorly - ERROR - Signup error: 
+2026-03-21 00:25:45,199 - proctorly - ERROR - Traceback (most recent call last):
+  File "/Users/mithilkunder/PROCTORLY_AI/app.py", line 88, in signup
+    raise HTTPException(status_code=400, detail="Username already exists")
+fastapi.exceptions.HTTPException
+
+2026-03-21 00:26:29,093 - proctorly - INFO - Shutting down...
+2026-03-21 00:26:31,962 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:26:31,969 - proctorly - INFO - Initializing Database...
+2026-03-21 00:26:48,246 - proctorly - INFO - Shutting down...
+2026-03-21 00:26:53,751 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:26:53,759 - proctorly - INFO - Initializing Database...
+2026-03-21 00:35:08,710 - proctorly - INFO - Shutting down...
+2026-03-21 00:35:11,756 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:35:11,763 - proctorly - INFO - Initializing Database...
+2026-03-21 00:36:28,287 - proctorly - INFO - Shutting down...
+2026-03-21 00:39:02,707 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:39:02,716 - proctorly - INFO - Initializing Database...
+2026-03-21 00:41:08,373 - proctorly - INFO - Shutting down...
+2026-03-21 00:43:02,162 - proctorly - INFO - Starting CNN training process...
+2026-03-21 00:43:02,162 - proctorly - WARNING - No registered face images (.jpg) found. Falling back to encodings (.npy) if any.
+2026-03-21 00:43:02,212 - proctorly - INFO - Training on 2 samples with 2 classes...
+2026-03-21 00:43:02,899 - proctorly - INFO - Model saved to /Users/mithilkunder/PROCTORLY_AI/data/models/proctorly_cnn_model.h5
+2026-03-21 00:52:03,169 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:52:03,177 - proctorly - INFO - Initializing Database...
+2026-03-21 00:54:24,995 - proctorly - INFO - Shutting down...
+2026-03-21 00:54:27,972 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:54:27,979 - proctorly - INFO - Initializing Database...
+2026-03-21 00:54:47,490 - proctorly - INFO - Shutting down...
+2026-03-21 00:54:50,350 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:54:50,357 - proctorly - INFO - Initializing Database...
+2026-03-21 00:55:26,046 - proctorly - INFO - Shutting down...
+2026-03-21 00:55:31,000 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 00:55:31,008 - proctorly - INFO - Initializing Database...
+2026-03-21 00:56:07,551 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 00:56:07,567 - proctorly - INFO - Started exam session 1 for user 999
+2026-03-21 00:56:27,733 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_1_looking_away_20260321_005627_731361.jpg
+2026-03-21 00:56:27,737 - proctorly - INFO - Logged event looking_away for session 1 (Severity: 7.0)
+2026-03-21 00:56:32,725 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_1_unauthorized_face_20260321_005632_723203.jpg
+2026-03-21 00:56:32,727 - proctorly - INFO - Logged event no_face for session 1 (Severity: 22.5)
+2026-03-21 00:56:40,298 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_1_multiple_faces_20260321_005640_297305.jpg
+2026-03-21 00:56:40,300 - proctorly - INFO - Logged event multiple_faces for session 1 (Severity: 35.0)
+2026-03-21 00:56:44,813 - proctorly - INFO - Client disconnected from lesson 1
+2026-03-21 00:56:44,817 - proctorly - INFO - Ended exam session 1 with status completed and risk 64.5
+2026-03-21 00:56:44,907 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_1.pdf
+2026-03-21 00:57:26,896 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 00:57:26,904 - proctorly - INFO - Started exam session 2 for user 999
+2026-03-21 00:58:24,734 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_multiple_faces_20260321_005824_733213.jpg
+2026-03-21 00:58:24,737 - proctorly - INFO - Logged event multiple_faces for session 2 (Severity: 35.0)
+2026-03-21 00:58:34,690 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_unauthorized_face_20260321_005834_688718.jpg
+2026-03-21 00:58:34,692 - proctorly - INFO - Logged event no_face for session 2 (Severity: 22.5)
+2026-03-21 00:58:42,195 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_2_unauthorized_face_20260321_005842_193857.jpg
+2026-03-21 00:58:42,197 - proctorly - INFO - Logged event no_face for session 2 (Severity: 22.5)
+2026-03-21 00:58:48,306 - proctorly - INFO - Client disconnected from lesson 2
+2026-03-21 00:58:48,310 - proctorly - INFO - Ended exam session 2 with status flagged and risk 80.0
+2026-03-21 00:58:48,383 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_2.pdf
+2026-03-21 01:02:19,405 - proctorly - INFO - Shutting down...
+2026-03-21 01:06:56,968 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 01:06:56,976 - proctorly - INFO - Initializing Database...
+2026-03-21 01:07:46,923 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:07:46,933 - proctorly - INFO - Started exam session 3 for user 999
+2026-03-21 01:08:07,096 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_3_looking_away_20260321_010807_094475.jpg
+2026-03-21 01:08:07,101 - proctorly - INFO - Logged event looking_away for session 3 (Severity: 7.0)
+2026-03-21 01:08:32,420 - proctorly - INFO - Client disconnected from lesson 3
+2026-03-21 01:08:32,442 - proctorly - INFO - Ended exam session 3 with status completed and risk 7.0
+2026-03-21 01:08:32,488 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_3.pdf
+2026-03-21 01:12:39,106 - proctorly - INFO - Shutting down...
+2026-03-21 01:12:44,167 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 01:12:44,175 - proctorly - INFO - Initializing Database...
+2026-03-21 01:13:12,113 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:13:16,583 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:13:22,551 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:13:23,723 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:13:23,737 - proctorly - INFO - Started exam session 4 for user 999
+2026-03-21 01:13:38,886 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_4_unauthorized_face_20260321_011338_882605.jpg
+2026-03-21 01:13:38,890 - proctorly - INFO - Logged event no_face for session 4 (Severity: 22.5)
+2026-03-21 01:14:28,976 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_4_looking_away_20260321_011428_975249.jpg
+2026-03-21 01:14:28,978 - proctorly - INFO - Logged event looking_away for session 4 (Severity: 7.0)
+2026-03-21 01:14:43,643 - proctorly - INFO - Client disconnected from lesson 4
+2026-03-21 01:14:43,646 - proctorly - INFO - Ended exam session 4 with status completed and risk 29.5
+2026-03-21 01:14:43,705 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_4.pdf
+2026-03-21 01:18:03,320 - proctorly - INFO - Shutting down...
+2026-03-21 01:19:06,713 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 01:19:06,720 - proctorly - INFO - Initializing Database...
+2026-03-21 01:25:32,162 - proctorly - INFO - Shutting down...
+2026-03-21 01:25:36,621 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 01:25:36,629 - proctorly - INFO - Initializing Database...
+2026-03-21 01:26:09,931 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:26:09,943 - proctorly - INFO - Started exam session 5 for user 999
+2026-03-21 01:26:37,613 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_5_unauthorized_face_20260321_012637_611921.jpg
+2026-03-21 01:26:37,619 - proctorly - INFO - Logged event no_face for session 5 (Severity: 22.5)
+2026-03-21 01:26:59,444 - proctorly - INFO - Client disconnected from lesson 5
+2026-03-21 01:26:59,449 - proctorly - INFO - Ended exam session 5 with status completed and risk 22.5
+2026-03-21 01:26:59,499 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_5.pdf
+2026-03-21 01:27:46,137 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:27:46,945 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:27:46,954 - proctorly - INFO - Started exam session 6 for user 999
+2026-03-21 01:28:05,440 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_6_multiple_faces_20260321_012805_437426.jpg
+2026-03-21 01:28:05,443 - proctorly - INFO - Logged event multiple_faces for session 6 (Severity: 35.0)
+2026-03-21 01:28:10,405 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_6_unauthorized_face_20260321_012810_403994.jpg
+2026-03-21 01:28:10,408 - proctorly - INFO - Logged event no_face for session 6 (Severity: 22.5)
+2026-03-21 01:28:13,580 - proctorly - INFO - Client disconnected from lesson 6
+2026-03-21 01:28:13,587 - proctorly - INFO - Ended exam session 6 with status completed and risk 57.5
+2026-03-21 01:28:13,647 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_6.pdf
+2026-03-21 01:28:40,931 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:28:41,596 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:28:41,599 - proctorly - INFO - Started exam session 7 for user 999
+2026-03-21 01:29:04,271 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_7_unauthorized_face_20260321_012904_269866.jpg
+2026-03-21 01:29:04,274 - proctorly - INFO - Logged event no_face for session 7 (Severity: 22.5)
+2026-03-21 01:29:06,769 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_7_unauthorized_face_20260321_012906_767804.jpg
+2026-03-21 01:29:06,771 - proctorly - INFO - Logged event no_face for session 7 (Severity: 22.5)
+2026-03-21 01:29:12,204 - proctorly - INFO - Client disconnected from lesson 7
+2026-03-21 01:29:12,209 - proctorly - INFO - Ended exam session 7 with status completed and risk 45.0
+2026-03-21 01:29:12,277 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_7.pdf
+2026-03-21 01:30:33,290 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:30:34,028 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:30:34,038 - proctorly - INFO - Started exam session 8 for user 999
+2026-03-21 01:30:46,904 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_8_unauthorized_face_20260321_013046_902340.jpg
+2026-03-21 01:30:46,906 - proctorly - INFO - Logged event no_face for session 8 (Severity: 22.5)
+2026-03-21 01:30:54,474 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_8_multiple_faces_20260321_013054_472398.jpg
+2026-03-21 01:30:54,476 - proctorly - INFO - Logged event multiple_faces for session 8 (Severity: 35.0)
+2026-03-21 01:30:56,903 - proctorly - INFO - Client disconnected from lesson 8
+2026-03-21 01:30:56,909 - proctorly - INFO - Ended exam session 8 with status completed and risk 57.5
+2026-03-21 01:30:56,981 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_8.pdf
+2026-03-21 01:39:06,942 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:39:08,756 - proctorly - INFO - Loaded face encoding for user 999
+2026-03-21 01:39:08,764 - proctorly - INFO - Started exam session 9 for user 999
+2026-03-21 01:39:11,488 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_9_multiple_faces_20260321_013911_487178.jpg
+2026-03-21 01:39:11,490 - proctorly - INFO - Logged event multiple_faces for session 9 (Severity: 35.0)
+2026-03-21 01:39:34,675 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_9_unauthorized_face_20260321_013934_672795.jpg
+2026-03-21 01:39:34,677 - proctorly - INFO - Logged event no_face for session 9 (Severity: 22.5)
+2026-03-21 01:39:42,245 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_9_mobile_phone_20260321_013942_244206.jpg
+2026-03-21 01:39:42,247 - proctorly - INFO - Logged event mobile_phone for session 9 (Severity: 18.876421451568604)
+2026-03-21 01:40:11,117 - proctorly - INFO - Client disconnected from lesson 9
+2026-03-21 01:40:11,123 - proctorly - INFO - Ended exam session 9 with status flagged and risk 76.3764214515686
+2026-03-21 01:40:11,219 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_9.pdf
+2026-03-21 11:59:16,424 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 11:59:16,441 - proctorly - INFO - Initializing Database...
+2026-03-21 12:03:55,131 - proctorly - INFO - Shutting down...
+2026-03-21 12:03:58,262 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 12:03:58,272 - proctorly - INFO - Initializing Database...
+2026-03-21 12:05:32,761 - proctorly - INFO - Shutting down...
+2026-03-21 12:05:38,092 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 12:05:38,101 - proctorly - INFO - Initializing Database...
+2026-03-21 12:06:34,056 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 12:38:43,628 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-21 12:39:11,234 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 12:54:53,361 - proctorly - INFO - Admin connected. Total admins: 2
+2026-03-21 12:54:53,477 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-03-21 12:54:53,496 - proctorly - INFO - Admin connected. Total admins: 2
+2026-03-21 12:54:54,592 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-03-21 13:05:11,954 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-21 13:05:11,962 - proctorly - INFO - Started exam session 10 for user 15
+2026-03-21 13:06:20,644 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_10_looking_away_20260321_130620_642980.jpg
+2026-03-21 13:06:20,649 - proctorly - INFO - Logged event looking_away for session 10 (Severity: 7.0)
+2026-03-21 13:06:34,652 - proctorly - INFO - Client disconnected from lesson 10
+2026-03-21 13:06:34,667 - proctorly - INFO - Ended exam session 10 with status completed and risk 7.0
+2026-03-21 13:06:34,690 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_10.pdf
+2026-03-21 13:06:35,732 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-21 13:11:26,671 - proctorly - INFO - Shutting down...
+2026-03-21 13:16:42,877 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 13:16:42,886 - proctorly - INFO - Initializing Database...
+2026-03-21 13:17:06,141 - proctorly - INFO - Shutting down...
+2026-03-21 13:25:09,177 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 13:25:09,187 - proctorly - INFO - Initializing Database...
+2026-03-21 13:38:30,262 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 13:43:49,425 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-21 13:53:21,277 - proctorly - INFO - Shutting down...
+2026-03-21 13:53:26,893 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-21 13:53:26,901 - proctorly - INFO - Initializing Database...
+2026-03-21 13:54:00,060 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-21 13:54:00,077 - proctorly - INFO - Started exam session 11 for user 15
+2026-03-21 13:54:27,742 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_11_looking_away_20260321_135427_741764.jpg
+2026-03-21 13:54:27,747 - proctorly - INFO - Logged event looking_away for session 11 (Severity: 7.0)
+2026-03-21 13:55:17,859 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_11_multiple_faces_20260321_135517_857948.jpg
+2026-03-21 13:55:17,862 - proctorly - INFO - Logged event multiple_faces for session 11 (Severity: 35.0)
+2026-03-21 13:55:30,329 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_11_looking_away_20260321_135530_328219.jpg
+2026-03-21 13:55:30,331 - proctorly - INFO - Logged event looking_away for session 11 (Severity: 7.0)
+2026-03-21 13:55:35,331 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_11_looking_away_20260321_135535_330642.jpg
+2026-03-21 13:55:35,334 - proctorly - INFO - Logged event looking_away for session 11 (Severity: 7.0)
+2026-03-21 13:55:43,387 - proctorly - INFO - Client disconnected from lesson 11
+2026-03-21 13:55:43,392 - proctorly - INFO - Ended exam session 11 with status completed and risk 56.0
+2026-03-21 13:55:43,472 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_11.pdf
+2026-03-21 14:30:22,033 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-21 14:30:22,042 - proctorly - INFO - Started exam session 12 for user 15
+2026-03-21 14:30:29,739 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_multiple_faces_20260321_143029_737386.jpg
+2026-03-21 14:30:29,749 - proctorly - INFO - Logged event multiple_faces for session 12 (Severity: 35.0)
+2026-03-21 14:30:32,270 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_multiple_faces_20260321_143032_269195.jpg
+2026-03-21 14:30:32,272 - proctorly - INFO - Logged event multiple_faces for session 12 (Severity: 35.0)
+2026-03-21 14:30:34,715 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_looking_away_20260321_143034_713965.jpg
+2026-03-21 14:30:34,717 - proctorly - INFO - Logged event looking_away for session 12 (Severity: 7.0)
+2026-03-21 14:31:09,834 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_mobile_phone_20260321_143109_833108.jpg
+2026-03-21 14:31:09,840 - proctorly - WARNING - Attempted to log event for invalid or inactive session 12
+2026-03-21 14:31:19,757 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_unauthorized_face_20260321_143119_754973.jpg
+2026-03-21 14:31:19,759 - proctorly - WARNING - Attempted to log event for invalid or inactive session 12
+2026-03-21 14:31:24,149 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_12_looking_away_20260321_143124_148570.jpg
+2026-03-21 14:31:24,150 - proctorly - WARNING - Attempted to log event for invalid or inactive session 12
+2026-03-21 14:31:27,750 - proctorly - INFO - Client disconnected from lesson 12
+2026-03-21 14:31:27,760 - proctorly - INFO - Ended exam session 12 with status flagged and risk 77.0
+2026-03-21 14:31:27,816 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_12.pdf
+2026-03-21 14:42:16,344 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 14:51:26,579 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-21 14:51:26,730 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 14:56:16,592 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-21 16:31:41,762 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-21 16:32:09,903 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-22 01:15:07,126 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-22 01:15:07,146 - proctorly - INFO - Initializing Database...
+2026-03-23 00:30:48,186 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 00:30:48,203 - proctorly - INFO - Initializing Database...
+2026-03-23 00:37:00,048 - proctorly - INFO - Shutting down...
+2026-03-23 00:37:08,590 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 00:37:08,601 - proctorly - INFO - Initializing Database...
+2026-03-23 00:39:27,717 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 00:39:27,747 - proctorly - INFO - Started exam session 13 for user 15
+2026-03-23 00:39:40,433 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_13_multiple_faces_20260323_003940_431626.jpg
+2026-03-23 00:39:40,449 - proctorly - INFO - Logged event multiple_faces for session 13 (Severity: 35.0)
+2026-03-23 00:39:45,360 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_13_unauthorized_face_20260323_003945_359362.jpg
+2026-03-23 00:39:45,363 - proctorly - INFO - Logged event no_face for session 13 (Severity: 22.5)
+2026-03-23 00:39:47,947 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_13_multiple_faces_20260323_003947_945572.jpg
+2026-03-23 00:39:47,950 - proctorly - INFO - Logged event multiple_faces for session 13 (Severity: 35.0)
+2026-03-23 00:40:05,403 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_13_unauthorized_face_20260323_004005_400611.jpg
+2026-03-23 00:40:05,412 - proctorly - WARNING - Attempted to log event for invalid or inactive session 13
+2026-03-23 00:40:10,396 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_13_unauthorized_face_20260323_004010_394698.jpg
+2026-03-23 00:40:10,398 - proctorly - WARNING - Attempted to log event for invalid or inactive session 13
+2026-03-23 00:40:17,478 - proctorly - INFO - Client disconnected from lesson 13
+2026-03-23 00:40:17,489 - proctorly - INFO - Ended exam session 13 with status flagged and risk 92.5
+2026-03-23 00:40:17,566 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_13.pdf
+2026-03-23 00:42:02,584 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:42:35,623 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 00:42:38,337 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:42:40,432 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 00:42:41,583 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:42:43,742 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 00:42:45,979 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:42:48,723 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 00:43:25,788 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:46:26,387 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 00:46:26,488 - proctorly - INFO - Shutting down...
+2026-03-23 00:46:34,896 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 00:46:34,908 - proctorly - INFO - Initializing Database...
+2026-03-23 00:46:39,356 - proctorly - INFO - Shutting down...
+2026-03-23 00:46:45,909 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 00:46:45,920 - proctorly - INFO - Initializing Database...
+2026-03-23 00:47:13,383 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 00:47:13,391 - proctorly - INFO - Started exam session 14 for user 15
+2026-03-23 00:47:46,130 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_14_multiple_faces_20260323_004746_128424.jpg
+2026-03-23 00:47:46,138 - proctorly - INFO - Logged event multiple_faces for session 14 (Severity: 35.0)
+2026-03-23 00:47:53,568 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_14_unauthorized_face_20260323_004753_566735.jpg
+2026-03-23 00:47:53,571 - proctorly - INFO - Logged event no_face for session 14 (Severity: 22.5)
+2026-03-23 00:48:01,085 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_14_unauthorized_face_20260323_004801_083457.jpg
+2026-03-23 00:48:01,088 - proctorly - INFO - Logged event no_face for session 14 (Severity: 22.5)
+2026-03-23 00:48:03,578 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_14_unauthorized_face_20260323_004803_577200.jpg
+2026-03-23 00:48:03,579 - proctorly - WARNING - Attempted to log event for invalid or inactive session 14
+2026-03-23 00:48:20,848 - proctorly - INFO - Client disconnected from lesson 14
+2026-03-23 00:48:20,855 - proctorly - INFO - Ended exam session 14 with status flagged and risk 80.0
+2026-03-23 00:48:20,944 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_14.pdf
+2026-03-23 00:48:36,685 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 00:56:10,713 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:02:27,516 - proctorly - INFO - Shutting down...
+2026-03-23 01:02:40,957 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:02:40,969 - proctorly - INFO - Initializing Database...
+2026-03-23 01:04:29,223 - proctorly - INFO - Shutting down...
+2026-03-23 01:13:27,515 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:13:27,532 - proctorly - INFO - Initializing Database...
+2026-03-23 01:13:49,862 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 01:15:30,154 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:15:30,249 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 01:15:47,524 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:15:55,156 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 01:17:28,612 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:17:28,716 - proctorly - INFO - Shutting down...
+2026-03-23 01:17:36,922 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:17:36,935 - proctorly - INFO - Initializing Database...
+2026-03-23 01:17:54,675 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 01:18:42,816 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 01:18:42,833 - proctorly - INFO - Started exam session 15 for user 15
+2026-03-23 01:18:50,587 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_15_multiple_faces_20260323_011850_585107.jpg
+2026-03-23 01:18:50,595 - proctorly - INFO - Logged event multiple_faces for session 15 (Severity: 35.0)
+2026-03-23 01:18:55,521 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_15_looking_away_20260323_011855_520221.jpg
+2026-03-23 01:18:55,523 - proctorly - INFO - Logged event looking_away for session 15 (Severity: 7.0)
+2026-03-23 01:19:15,619 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_15_multiple_faces_20260323_011915_616372.jpg
+2026-03-23 01:19:15,621 - proctorly - INFO - Logged event multiple_faces for session 15 (Severity: 35.0)
+2026-03-23 01:19:23,116 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_15_multiple_faces_20260323_011923_113986.jpg
+2026-03-23 01:19:23,116 - proctorly - WARNING - Attempted to log event for invalid or inactive session 15
+2026-03-23 01:19:30,954 - proctorly - INFO - Client disconnected from lesson 15
+2026-03-23 01:19:30,961 - proctorly - INFO - Ended exam session 15 with status flagged and risk 77.0
+2026-03-23 01:19:31,036 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_15.pdf
+2026-03-23 01:22:31,966 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 01:22:32,901 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 01:22:32,911 - proctorly - INFO - Started exam session 16 for user 15
+2026-03-23 01:22:50,647 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_16_multiple_faces_20260323_012250_643660.jpg
+2026-03-23 01:22:50,650 - proctorly - INFO - Logged event multiple_faces for session 16 (Severity: 35.0)
+2026-03-23 01:23:13,099 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_16_unauthorized_face_20260323_012313_097106.jpg
+2026-03-23 01:23:13,102 - proctorly - INFO - Logged event no_face for session 16 (Severity: 22.5)
+2026-03-23 01:23:22,731 - proctorly - INFO - Client disconnected from lesson 16
+2026-03-23 01:23:22,736 - proctorly - INFO - Ended exam session 16 with status completed and risk 57.5
+2026-03-23 01:23:22,790 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_16.pdf
+2026-03-23 01:23:57,787 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:23:57,888 - proctorly - INFO - Shutting down...
+2026-03-23 01:24:07,610 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:24:07,621 - proctorly - INFO - Initializing Database...
+2026-03-23 01:27:44,691 - proctorly - INFO - Shutting down...
+2026-03-23 01:28:08,926 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:28:08,939 - proctorly - INFO - Initializing Database...
+2026-03-23 01:29:06,179 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 01:29:06,200 - proctorly - INFO - Started exam session 17 for user 15
+2026-03-23 01:29:11,377 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_17_multiple_faces_20260323_012911_375194.jpg
+2026-03-23 01:29:11,383 - proctorly - INFO - Logged event multiple_faces for session 17 (Severity: 35.0)
+2026-03-23 01:29:16,370 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_17_multiple_faces_20260323_012916_368242.jpg
+2026-03-23 01:29:16,373 - proctorly - INFO - Logged event multiple_faces for session 17 (Severity: 35.0)
+2026-03-23 01:29:18,895 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_17_multiple_faces_20260323_012918_894041.jpg
+2026-03-23 01:29:18,899 - proctorly - INFO - Logged event multiple_faces for session 17 (Severity: 35.0)
+2026-03-23 01:29:21,308 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_17_unauthorized_face_20260323_012921_306326.jpg
+2026-03-23 01:29:21,309 - proctorly - WARNING - Attempted to log event for invalid or inactive session 17
+2026-03-23 01:29:28,917 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_17_multiple_faces_20260323_012928_915161.jpg
+2026-03-23 01:29:28,918 - proctorly - WARNING - Attempted to log event for invalid or inactive session 17
+2026-03-23 01:29:31,637 - proctorly - INFO - Client disconnected from lesson 17
+2026-03-23 01:29:31,643 - proctorly - INFO - Ended exam session 17 with status flagged and risk 100.0
+2026-03-23 01:29:31,731 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_17.pdf
+2026-03-23 01:29:58,703 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 01:30:13,166 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 01:30:13,267 - proctorly - INFO - Shutting down...
+2026-03-23 01:42:33,780 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 01:42:33,792 - proctorly - INFO - Initializing Database...
+2026-03-23 01:43:06,767 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 01:43:06,776 - proctorly - INFO - Started exam session 18 for user 15
+2026-03-23 01:43:39,441 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_18_unauthorized_face_20260323_014339_439751.jpg
+2026-03-23 01:43:39,448 - proctorly - INFO - Logged event no_face for session 18 (Severity: 22.5)
+2026-03-23 01:43:40,310 - proctorly - INFO - Client disconnected from lesson 18
+2026-03-23 01:43:40,314 - proctorly - INFO - Ended exam session 18 with status completed and risk 22.5
+2026-03-23 01:43:40,345 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_18.pdf
+2026-03-23 01:59:59,453 - proctorly - INFO - Shutting down...
+2026-03-23 02:01:52,513 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:02:04,165 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:02:04,298 - proctorly - INFO - Initializing Database...
+2026-03-23 02:04:35,668 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:04:35,700 - proctorly - INFO - Started exam session 19 for user 12
+2026-03-23 02:04:42,284 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_19_unauthorized_face_20260323_020442_282012.jpg
+2026-03-23 02:04:42,291 - proctorly - INFO - Logged event no_face for session 19 (Severity: 22.5)
+2026-03-23 02:04:44,261 - proctorly - INFO - Client disconnected from lesson 19
+2026-03-23 02:04:44,268 - proctorly - INFO - Ended exam session 19 with status completed and risk 22.5
+2026-03-23 02:04:44,297 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_19.pdf
+2026-03-23 02:11:49,808 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:11:49,827 - proctorly - INFO - Initializing Database...
+2026-03-23 02:12:13,769 - proctorly - INFO - Shutting down...
+2026-03-23 02:14:12,407 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:14:12,419 - proctorly - INFO - Initializing Database...
+2026-03-23 02:19:17,707 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 02:19:17,727 - proctorly - INFO - Started exam session 20 for user 15
+2026-03-23 02:19:20,305 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_20_unauthorized_face_20260323_021920_303931.jpg
+2026-03-23 02:19:20,311 - proctorly - INFO - Logged event no_face for session 20 (Severity: 22.5)
+2026-03-23 02:19:22,808 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_20_unauthorized_face_20260323_021922_806847.jpg
+2026-03-23 02:19:22,811 - proctorly - INFO - Logged event no_face for session 20 (Severity: 22.5)
+2026-03-23 02:19:25,334 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_20_unauthorized_face_20260323_021925_333073.jpg
+2026-03-23 02:19:25,336 - proctorly - INFO - Logged event no_face for session 20 (Severity: 22.5)
+2026-03-23 02:19:27,846 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_20_unauthorized_face_20260323_021927_845867.jpg
+2026-03-23 02:19:27,849 - proctorly - INFO - Logged event no_face for session 20 (Severity: 22.5)
+2026-03-23 02:19:30,348 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_20_unauthorized_face_20260323_021930_347551.jpg
+2026-03-23 02:19:30,349 - proctorly - WARNING - Attempted to log event for invalid or inactive session 20
+2026-03-23 02:19:31,768 - proctorly - INFO - Client disconnected from lesson 20
+2026-03-23 02:19:31,777 - proctorly - INFO - Ended exam session 20 with status flagged and risk 90.0
+2026-03-23 02:19:31,863 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_20.pdf
+2026-03-23 02:29:36,286 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:29:36,295 - proctorly - INFO - Started exam session 21 for user 12
+2026-03-23 02:29:38,890 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_21_unauthorized_face_20260323_022938_888730.jpg
+2026-03-23 02:29:38,893 - proctorly - INFO - Logged event no_face for session 21 (Severity: 22.5)
+2026-03-23 02:29:41,388 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_21_unauthorized_face_20260323_022941_387465.jpg
+2026-03-23 02:29:41,391 - proctorly - INFO - Logged event no_face for session 21 (Severity: 22.5)
+2026-03-23 02:29:43,889 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_21_unauthorized_face_20260323_022943_887943.jpg
+2026-03-23 02:29:43,892 - proctorly - INFO - Logged event no_face for session 21 (Severity: 22.5)
+2026-03-23 02:29:46,425 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_21_unauthorized_face_20260323_022946_423353.jpg
+2026-03-23 02:29:46,431 - proctorly - INFO - Logged event no_face for session 21 (Severity: 22.5)
+2026-03-23 02:29:48,921 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_21_unauthorized_face_20260323_022948_920192.jpg
+2026-03-23 02:29:48,921 - proctorly - WARNING - Attempted to log event for invalid or inactive session 21
+2026-03-23 02:29:51,411 - proctorly - INFO - Client disconnected from lesson 21
+2026-03-23 02:29:51,424 - proctorly - INFO - Ended exam session 21 with status flagged and risk 90.0
+2026-03-23 02:29:51,526 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_21.pdf
+2026-03-23 02:33:15,705 - proctorly - INFO - Shutting down...
+2026-03-23 02:33:23,899 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:33:23,911 - proctorly - INFO - Initializing Database...
+2026-03-23 02:33:24,014 - proctorly - INFO - Shutting down...
+2026-03-23 02:33:29,699 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:33:29,711 - proctorly - INFO - Initializing Database...
+2026-03-23 02:33:29,813 - proctorly - INFO - Shutting down...
+2026-03-23 02:33:35,197 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:33:35,209 - proctorly - INFO - Initializing Database...
+2026-03-23 02:33:53,096 - proctorly - INFO - Shutting down...
+2026-03-23 02:33:58,524 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-23 02:33:58,536 - proctorly - INFO - Initializing Database...
+2026-03-23 02:39:06,792 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:39:11,260 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:39:11,281 - proctorly - INFO - Started exam session 22 for user 12
+2026-03-23 02:39:41,801 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_22_unauthorized_face_20260323_023941_797257.jpg
+2026-03-23 02:39:41,807 - proctorly - INFO - Logged event no_face for session 22 (Severity: 22.5)
+2026-03-23 02:40:41,865 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_22_unauthorized_face_20260323_024041_862826.jpg
+2026-03-23 02:40:41,876 - proctorly - INFO - Logged event no_face for session 22 (Severity: 22.5)
+2026-03-23 02:40:54,381 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_22_unauthorized_face_20260323_024054_380625.jpg
+2026-03-23 02:40:54,386 - proctorly - INFO - Logged event no_face for session 22 (Severity: 22.5)
+2026-03-23 02:41:07,031 - proctorly - INFO - Client disconnected from lesson 22
+2026-03-23 02:41:07,038 - proctorly - INFO - Ended exam session 22 with status completed and risk 67.5
+2026-03-23 02:41:07,104 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_22.pdf
+2026-03-23 02:46:02,818 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:46:03,784 - proctorly - INFO - Loaded face encoding for user 12
+2026-03-23 02:46:03,792 - proctorly - INFO - Started exam session 23 for user 12
+2026-03-23 02:46:08,990 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_23_mobile_phone_20260323_024608_985070.jpg
+2026-03-23 02:46:08,998 - proctorly - INFO - Logged event mobile_phone for session 23 (Severity: 18.230024576187134)
+2026-03-23 02:46:34,346 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_23_looking_away_20260323_024634_345099.jpg
+2026-03-23 02:46:34,352 - proctorly - INFO - Logged event looking_away for session 23 (Severity: 7.0)
+2026-03-23 02:46:45,184 - proctorly - INFO - Client disconnected from lesson 23
+2026-03-23 02:46:45,193 - proctorly - INFO - Ended exam session 23 with status completed and risk 25.230024576187134
+2026-03-23 02:46:45,241 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_23.pdf
+2026-03-23 02:51:52,853 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 02:59:52,391 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-23 02:59:52,402 - proctorly - INFO - Started exam session 24 for user 15
+2026-03-23 03:00:02,908 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_24_unauthorized_face_20260323_030002_905689.jpg
+2026-03-23 03:00:02,912 - proctorly - INFO - Logged event no_face for session 24 (Severity: 22.5)
+2026-03-23 03:00:12,914 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_24_unauthorized_face_20260323_030012_912665.jpg
+2026-03-23 03:00:12,917 - proctorly - INFO - Logged event no_face for session 24 (Severity: 22.5)
+2026-03-23 03:00:20,431 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_24_unauthorized_face_20260323_030020_430659.jpg
+2026-03-23 03:00:20,434 - proctorly - INFO - Logged event no_face for session 24 (Severity: 22.5)
+2026-03-23 03:00:27,948 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_24_unauthorized_face_20260323_030027_947269.jpg
+2026-03-23 03:00:27,952 - proctorly - INFO - Logged event no_face for session 24 (Severity: 22.5)
+2026-03-23 03:00:36,301 - proctorly - INFO - Client disconnected from lesson 24
+2026-03-23 03:00:36,310 - proctorly - INFO - Ended exam session 24 with status flagged and risk 90.0
+2026-03-23 03:00:36,393 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_24.pdf
+2026-03-23 03:13:37,754 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-23 03:13:37,884 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-23 03:29:27,510 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-27 00:17:10,780 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-27 00:17:10,850 - proctorly - INFO - Initializing Database...
+2026-03-27 00:19:20,932 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-27 02:15:42,340 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-27 02:15:42,454 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-28 10:22:58,992 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-28 10:22:59,013 - proctorly - INFO - Initializing Database...
+2026-03-28 10:23:19,730 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-28 10:23:22,424 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-28 10:25:58,478 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 10:25:58,488 - proctorly - INFO - Started exam session 25 for user 15
+2026-03-28 10:26:11,206 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_25_multiple_faces_20260328_102611_205165.jpg
+2026-03-28 10:26:11,212 - proctorly - INFO - Logged event multiple_faces for session 25 (Severity: 35.0)
+2026-03-28 10:26:13,708 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_25_multiple_faces_20260328_102613_707171.jpg
+2026-03-28 10:26:13,710 - proctorly - INFO - Logged event multiple_faces for session 25 (Severity: 35.0)
+2026-03-28 10:26:51,363 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_25_mobile_phone_20260328_102651_361150.jpg
+2026-03-28 10:26:51,373 - proctorly - INFO - Logged event mobile_phone for session 25 (Severity: 28.50419044494629)
+2026-03-28 10:27:04,169 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_25_unauthorized_face_20260328_102704_168000.jpg
+2026-03-28 10:27:04,170 - proctorly - WARNING - Attempted to log event for invalid or inactive session 25
+2026-03-28 10:27:07,953 - proctorly - INFO - Client disconnected from lesson 25
+2026-03-28 10:27:07,961 - proctorly - INFO - Ended exam session 25 with status flagged and risk 98.50419044494629
+2026-03-28 10:27:08,039 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_25.pdf
+2026-03-28 10:28:56,714 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-28 10:30:39,575 - proctorly - INFO - Admin connected. Total admins: 2
+2026-03-28 10:30:39,854 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-03-28 10:30:39,941 - proctorly - INFO - Admin connected. Total admins: 2
+2026-03-28 10:30:41,806 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-03-28 10:31:05,974 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 10:31:05,980 - proctorly - INFO - Started exam session 26 for user 15
+2026-03-28 10:31:22,622 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_26_mobile_phone_20260328_103122_619429.jpg
+2026-03-28 10:31:22,627 - proctorly - INFO - Logged event mobile_phone for session 26 (Severity: 33.68823528289795)
+2026-03-28 10:31:28,029 - proctorly - INFO - Client disconnected from lesson 26
+2026-03-28 10:31:28,041 - proctorly - INFO - Ended exam session 26 with status completed and risk 33.68823528289795
+2026-03-28 10:31:28,066 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_26.pdf
+2026-03-28 10:31:50,563 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-28 10:31:50,664 - proctorly - INFO - Shutting down...
+2026-03-28 10:31:58,840 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-28 10:31:58,854 - proctorly - INFO - Initializing Database...
+2026-03-28 10:41:20,561 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 10:41:20,572 - proctorly - INFO - Started exam session 27 for user 15
+2026-03-28 10:41:35,726 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_27_looking_away_20260328_104135_725448.jpg
+2026-03-28 10:41:35,733 - proctorly - INFO - Logged event looking_away for session 27 (Severity: 7.0)
+2026-03-28 10:41:48,301 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_27_mobile_phone_20260328_104148_299154.jpg
+2026-03-28 10:41:48,303 - proctorly - INFO - Logged event mobile_phone for session 27 (Severity: 28.738667964935303)
+2026-03-28 10:42:03,608 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_27_unauthorized_face_20260328_104203_607548.jpg
+2026-03-28 10:42:03,613 - proctorly - INFO - Logged event no_face for session 27 (Severity: 22.5)
+2026-03-28 10:42:11,126 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_27_unauthorized_face_20260328_104211_123991.jpg
+2026-03-28 10:42:11,128 - proctorly - INFO - Logged event no_face for session 27 (Severity: 22.5)
+2026-03-28 10:42:13,338 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_27_multiple_faces_20260328_104213_337749.jpg
+2026-03-28 10:42:13,339 - proctorly - WARNING - Attempted to log event for invalid or inactive session 27
+2026-03-28 10:42:15,977 - proctorly - INFO - Client disconnected from lesson 27
+2026-03-28 10:42:15,985 - proctorly - INFO - Ended exam session 27 with status flagged and risk 80.7386679649353
+2026-03-28 10:42:16,075 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_27.pdf
+2026-03-28 10:52:20,572 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-28 10:52:20,591 - proctorly - INFO - Initializing Database...
+2026-03-28 11:03:39,988 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 11:03:41,121 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 11:03:41,146 - proctorly - INFO - Started exam session 28 for user 15
+2026-03-28 11:03:46,286 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_28_looking_away_20260328_110346_270963.jpg
+2026-03-28 11:03:46,297 - proctorly - INFO - Logged event looking_away for session 28 (Severity: 7.0)
+2026-03-28 11:03:54,297 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_28_looking_away_20260328_110354_296122.jpg
+2026-03-28 11:03:54,301 - proctorly - INFO - Logged event looking_away for session 28 (Severity: 7.0)
+2026-03-28 11:04:07,518 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_28_mobile_phone_20260328_110407_516646.jpg
+2026-03-28 11:04:07,525 - proctorly - INFO - Logged event mobile_phone for session 28 (Severity: 31.66076898574829)
+2026-03-28 11:04:11,290 - proctorly - INFO - Client disconnected from lesson 28
+2026-03-28 11:04:11,296 - proctorly - INFO - Ended exam session 28 with status completed and risk 45.66076898574829
+2026-03-28 11:04:11,348 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_28.pdf
+2026-03-28 11:16:14,728 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-28 11:16:14,735 - proctorly - INFO - Started exam session 29 for user 15
+2026-03-28 11:17:17,516 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_29_looking_away_20260328_111717_513764.jpg
+2026-03-28 11:17:17,526 - proctorly - INFO - Logged event looking_away for session 29 (Severity: 7.0)
+2026-03-28 11:17:25,589 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_29_mobile_phone_20260328_111725_586946.jpg
+2026-03-28 11:17:25,591 - proctorly - INFO - Logged event mobile_phone for session 29 (Severity: 25.630834102630615)
+2026-03-28 11:17:30,587 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/PROCTORLY_AI/data/screenshots/session_29_multiple_faces_20260328_111730_586525.jpg
+2026-03-28 11:17:30,590 - proctorly - INFO - Logged event multiple_faces for session 29 (Severity: 35.0)
+2026-03-28 11:17:34,506 - proctorly - INFO - Client disconnected from lesson 29
+2026-03-28 11:17:34,512 - proctorly - INFO - Ended exam session 29 with status completed and risk 67.63083410263062
+2026-03-28 11:17:34,593 - proctorly - INFO - Generated report at /Users/mithilkunder/PROCTORLY_AI/data/reports/report_session_29.pdf
+2026-03-28 11:17:52,018 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-28 11:18:17,157 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-03-30 00:44:48,964 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-30 00:44:48,987 - proctorly - INFO - Initializing Database...
+2026-03-30 00:48:05,825 - proctorly - INFO - Shutting down...
+2026-03-30 01:11:20,501 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-30 01:11:20,514 - proctorly - INFO - Initializing Database...
+2026-03-30 01:11:45,155 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:11:54,795 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:11:59,726 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:12:07,310 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:12:10,326 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:12:21,196 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:12:27,696 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:12:48,762 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:13:04,846 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:13:08,113 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:13:15,373 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:13:31,635 - proctorly - INFO - Shutting down...
+2026-03-30 01:31:52,597 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-30 01:31:52,611 - proctorly - INFO - Initializing Database...
+2026-03-30 01:32:15,447 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:32:18,227 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:32:23,146 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:32:27,948 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:32:38,281 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:32:40,930 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:33:23,165 - proctorly - INFO - Admin connected. Total admins: 1
+2026-03-30 01:41:37,791 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-03-30 01:41:37,811 - proctorly - INFO - Initializing Database...
+2026-03-30 01:41:51,442 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:41:54,051 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:41:59,632 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:02,061 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:04,550 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:06,630 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:11,138 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:13,845 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:16,349 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:19,533 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:22,242 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:43,920 - proctorly - INFO - Loaded face encoding for user 15
+2026-03-30 01:42:43,928 - proctorly - INFO - Started exam session 30 for user 15
+2026-03-30 01:43:10,410 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_30_looking_away_20260330_014310_408085.jpg
+2026-03-30 01:43:10,415 - proctorly - INFO - Logged event looking_away for session 30 (Severity: 7.0)
+2026-03-30 01:43:23,442 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_30_looking_away_20260330_014323_440110.jpg
+2026-03-30 01:43:23,445 - proctorly - INFO - Logged event looking_away for session 30 (Severity: 7.0)
+2026-03-30 01:43:34,530 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_30_mobile_phone_20260330_014334_529140.jpg
+2026-03-30 01:43:34,533 - proctorly - INFO - Logged event mobile_phone for session 30 (Severity: 19.820377826690674)
+2026-03-30 01:43:35,037 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_30_multiple_faces_20260330_014335_036557.jpg
+2026-03-30 01:43:35,040 - proctorly - INFO - Logged event multiple_faces for session 30 (Severity: 35.0)
+2026-03-30 01:43:37,862 - proctorly - INFO - Client disconnected from lesson 30
+2026-03-30 01:43:37,870 - proctorly - INFO - Ended exam session 30 with status completed and risk 68.82037782669067
+2026-03-30 01:43:37,968 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_30.pdf
+2026-03-30 01:43:55,676 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-01 00:26:54,625 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 00:26:54,646 - proctorly - INFO - Initializing Database...
+2026-04-01 00:26:59,258 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-01 00:27:16,475 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-01 00:27:56,524 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 00:27:56,535 - proctorly - INFO - Started exam session 31 for user 15
+2026-04-01 00:28:26,065 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_31_unauthorized_face_20260401_002826_063075.jpg
+2026-04-01 00:28:26,070 - proctorly - INFO - Logged event no_face for session 31 (Severity: 22.5)
+2026-04-01 00:28:30,583 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_31_unauthorized_face_20260401_002830_582419.jpg
+2026-04-01 00:28:30,586 - proctorly - INFO - Logged event no_face for session 31 (Severity: 22.5)
+2026-04-01 00:28:35,376 - proctorly - INFO - Client disconnected from lesson 31
+2026-04-01 00:28:35,384 - proctorly - INFO - Ended exam session 31 with status completed and risk 45.0
+2026-04-01 00:28:35,454 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_31.pdf
+2026-04-01 00:28:47,551 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 00:28:50,803 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 00:29:33,968 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 00:29:34,688 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 00:29:34,692 - proctorly - INFO - Started exam session 32 for user 15
+2026-04-01 00:29:41,181 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_32_unauthorized_face_20260401_002941_180472.jpg
+2026-04-01 00:29:41,184 - proctorly - INFO - Logged event no_face for session 32 (Severity: 22.5)
+2026-04-01 00:29:48,212 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_32_unauthorized_face_20260401_002948_209998.jpg
+2026-04-01 00:29:48,214 - proctorly - INFO - Logged event no_face for session 32 (Severity: 22.5)
+2026-04-01 00:29:58,233 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_32_unauthorized_face_20260401_002958_232346.jpg
+2026-04-01 00:29:58,236 - proctorly - INFO - Logged event no_face for session 32 (Severity: 22.5)
+2026-04-01 00:30:30,085 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_32_unauthorized_face_20260401_003030_083927.jpg
+2026-04-01 00:30:30,088 - proctorly - INFO - Logged event no_face for session 32 (Severity: 22.5)
+2026-04-01 00:30:32,905 - proctorly - INFO - Client disconnected from lesson 32
+2026-04-01 00:30:32,912 - proctorly - INFO - Ended exam session 32 with status flagged and risk 90.0
+2026-04-01 00:30:33,031 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_32.pdf
+2026-04-01 01:39:18,023 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 01:39:18,042 - proctorly - INFO - Initializing Database...
+2026-04-01 01:39:32,436 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 01:39:48,137 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 01:39:48,866 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 01:39:48,892 - proctorly - INFO - Started exam session 33 for user 15
+2026-04-01 01:40:01,867 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_33_unauthorized_face_20260401_014001_863857.jpg
+2026-04-01 01:40:01,873 - proctorly - INFO - Logged event no_face for session 33 (Severity: 22.5)
+2026-04-01 01:40:12,570 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_33_looking_away_20260401_014012_569137.jpg
+2026-04-01 01:40:12,574 - proctorly - INFO - Logged event looking_away for session 33 (Severity: 7.0)
+2026-04-01 01:40:26,430 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_33_unauthorized_face_20260401_014026_428352.jpg
+2026-04-01 01:40:26,433 - proctorly - INFO - Logged event no_face for session 33 (Severity: 22.5)
+2026-04-01 01:40:40,200 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_33_mobile_phone_20260401_014040_199375.jpg
+2026-04-01 01:40:40,204 - proctorly - INFO - Logged event mobile_phone for session 33 (Severity: 27.670400142669678)
+2026-04-01 01:40:50,191 - proctorly - INFO - Client disconnected from lesson 33
+2026-04-01 01:40:50,209 - proctorly - INFO - Ended exam session 33 with status flagged and risk 79.67040014266968
+2026-04-01 01:40:50,288 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_33.pdf
+2026-04-01 01:41:19,121 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-01 01:41:31,711 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-01 01:46:00,363 - proctorly - INFO - Shutting down...
+2026-04-01 01:46:08,927 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 01:46:08,939 - proctorly - INFO - Initializing Database...
+2026-04-01 01:46:09,043 - proctorly - INFO - Shutting down...
+2026-04-01 01:46:14,667 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 01:46:14,679 - proctorly - INFO - Initializing Database...
+2026-04-01 01:46:19,538 - proctorly - INFO - Shutting down...
+2026-04-01 01:46:25,139 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 01:46:25,151 - proctorly - INFO - Initializing Database...
+2026-04-01 01:48:50,423 - proctorly - INFO - Shutting down...
+2026-04-01 01:49:14,522 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 01:49:14,536 - proctorly - INFO - Initializing Database...
+2026-04-01 01:49:36,090 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 01:49:36,105 - proctorly - INFO - Started exam session 34 for user 15
+2026-04-01 01:50:08,382 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_34_cell phone_20260401_015008_379836.jpg
+2026-04-01 01:50:08,388 - proctorly - INFO - Logged event cell phone for session 34 (Severity: 0.0)
+2026-04-01 01:50:20,176 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_34_unauthorized_face_20260401_015020_173464.jpg
+2026-04-01 01:50:20,179 - proctorly - INFO - Logged event no_face for session 34 (Severity: 22.5)
+2026-04-01 01:50:44,725 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_34_unauthorized_face_20260401_015044_723141.jpg
+2026-04-01 01:50:44,728 - proctorly - INFO - Logged event no_face for session 34 (Severity: 22.5)
+2026-04-01 01:50:52,250 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_34_unauthorized_face_20260401_015052_248331.jpg
+2026-04-01 01:50:52,252 - proctorly - INFO - Logged event no_face for session 34 (Severity: 22.5)
+2026-04-01 01:50:57,991 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_34_cell phone_20260401_015057_989276.jpg
+2026-04-01 01:50:57,994 - proctorly - INFO - Logged event cell phone for session 34 (Severity: 0.0)
+2026-04-01 01:51:01,491 - proctorly - INFO - Client disconnected from lesson 34
+2026-04-01 01:51:01,498 - proctorly - INFO - Ended exam session 34 with status completed and risk 67.5
+2026-04-01 01:51:01,606 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_34.pdf
+2026-04-01 01:51:16,863 - proctorly - INFO - Shutting down...
+2026-04-01 21:54:44,804 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-01 21:54:44,825 - proctorly - INFO - Initializing Database...
+2026-04-01 21:58:43,245 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-01 21:58:43,256 - proctorly - INFO - Started exam session 35 for user 15
+2026-04-01 21:58:59,928 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_35_looking_away_20260401_215859_926842.jpg
+2026-04-01 21:58:59,935 - proctorly - INFO - Logged event looking_away for session 35 (Severity: 7.0)
+2026-04-01 21:59:13,036 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_35_cell phone_20260401_215913_034885.jpg
+2026-04-01 21:59:13,040 - proctorly - INFO - Logged event cell phone for session 35 (Severity: 0.0)
+2026-04-01 21:59:22,989 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_35_looking_away_20260401_215922_988281.jpg
+2026-04-01 21:59:22,992 - proctorly - INFO - Logged event looking_away for session 35 (Severity: 7.0)
+2026-04-01 21:59:43,074 - proctorly - INFO - Client disconnected from lesson 35
+2026-04-01 21:59:43,078 - proctorly - INFO - Ended exam session 35 with status completed and risk 14.0
+2026-04-01 21:59:43,130 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_35.pdf
+2026-04-01 22:00:11,696 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 11:11:53,772 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-02 11:11:53,895 - proctorly - INFO - Initializing Database...
+2026-04-02 11:11:58,906 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 11:12:01,572 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-02 11:15:12,552 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:15:12,569 - proctorly - INFO - Started exam session 36 for user 15
+2026-04-02 11:15:25,802 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_36_cell phone_20260402_111525_798956.jpg
+2026-04-02 11:15:25,808 - proctorly - INFO - Logged event cell phone for session 36 (Severity: 0.0)
+2026-04-02 11:15:26,304 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_36_cell phone_20260402_111526_302815.jpg
+2026-04-02 11:15:26,306 - proctorly - INFO - Logged event cell phone for session 36 (Severity: 0.0)
+2026-04-02 11:15:38,572 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_36_unauthorized_face_20260402_111538_570705.jpg
+2026-04-02 11:15:38,576 - proctorly - INFO - Logged event no_face for session 36 (Severity: 22.5)
+2026-04-02 11:15:39,591 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_36_looking_away_20260402_111539_590099.jpg
+2026-04-02 11:15:39,594 - proctorly - INFO - Logged event looking_away for session 36 (Severity: 7.0)
+2026-04-02 11:15:50,030 - proctorly - INFO - Client disconnected from lesson 36
+2026-04-02 11:15:50,040 - proctorly - INFO - Ended exam session 36 with status completed and risk 29.5
+2026-04-02 11:15:50,162 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_36.pdf
+2026-04-02 11:16:15,157 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 11:17:22,318 - proctorly - INFO - Admin connected. Total admins: 2
+2026-04-02 11:17:23,806 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-04-02 11:17:47,300 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:17:47,304 - proctorly - INFO - Started exam session 37 for user 15
+2026-04-02 11:17:56,127 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_37_looking_away_20260402_111756_124898.jpg
+2026-04-02 11:17:56,130 - proctorly - INFO - Logged event looking_away for session 37 (Severity: 7.0)
+2026-04-02 11:18:08,434 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_37_cell phone_20260402_111808_432270.jpg
+2026-04-02 11:18:08,438 - proctorly - INFO - Logged event cell phone for session 37 (Severity: 0.0)
+2026-04-02 11:18:08,906 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_37_cell phone_20260402_111808_904248.jpg
+2026-04-02 11:18:08,909 - proctorly - INFO - Logged event cell phone for session 37 (Severity: 0.0)
+2026-04-02 11:18:15,376 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_37_looking_away_20260402_111815_374093.jpg
+2026-04-02 11:18:15,379 - proctorly - INFO - Logged event looking_away for session 37 (Severity: 7.0)
+2026-04-02 11:18:17,441 - proctorly - INFO - Client disconnected from lesson 37
+2026-04-02 11:18:17,446 - proctorly - INFO - Ended exam session 37 with status completed and risk 14.0
+2026-04-02 11:18:17,575 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_37.pdf
+2026-04-02 11:18:40,332 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-02 11:18:41,990 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 11:46:55,397 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-02 11:53:53,461 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:53:53,468 - proctorly - INFO - Started exam session 38 for user 15
+2026-04-02 11:54:02,209 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_38_cell phone_20260402_115402_207156.jpg
+2026-04-02 11:54:02,214 - proctorly - INFO - Logged event cell phone for session 38 (Severity: 0.0)
+2026-04-02 11:54:02,709 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_38_cell phone_20260402_115402_705863.jpg
+2026-04-02 11:54:02,712 - proctorly - INFO - Logged event cell phone for session 38 (Severity: 0.0)
+2026-04-02 11:54:08,721 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_38_multiple_faces_20260402_115408_719634.jpg
+2026-04-02 11:54:08,724 - proctorly - INFO - Logged event multiple_faces for session 38 (Severity: 35.0)
+2026-04-02 11:54:09,225 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_38_multiple_faces_20260402_115409_224478.jpg
+2026-04-02 11:54:09,228 - proctorly - INFO - Logged event multiple_faces for session 38 (Severity: 35.0)
+2026-04-02 11:54:09,720 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_38_multiple_faces_20260402_115409_719386.jpg
+2026-04-02 11:54:09,724 - proctorly - INFO - Logged event multiple_faces for session 38 (Severity: 35.0)
+2026-04-02 11:54:13,344 - proctorly - INFO - Client disconnected from lesson 38
+2026-04-02 11:54:13,349 - proctorly - INFO - Ended exam session 38 with status flagged and risk 100.0
+2026-04-02 11:54:13,518 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_38.pdf
+2026-04-02 11:54:59,322 - proctorly - INFO - Shutting down...
+2026-04-02 11:55:15,579 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-02 11:55:15,592 - proctorly - INFO - Initializing Database...
+2026-04-02 11:55:27,088 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:55:27,710 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:55:27,739 - proctorly - INFO - Started exam session 39 for user 15
+2026-04-02 11:55:35,467 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_39_cell phone_20260402_115535_462939.jpg
+2026-04-02 11:55:35,480 - proctorly - INFO - Logged event cell phone for session 39 (Severity: 0.0)
+2026-04-02 11:55:35,961 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_39_cell phone_20260402_115535_959044.jpg
+2026-04-02 11:55:35,964 - proctorly - INFO - Logged event cell phone for session 39 (Severity: 0.0)
+2026-04-02 11:56:01,279 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_39_unauthorized_face_20260402_115601_277614.jpg
+2026-04-02 11:56:01,283 - proctorly - INFO - Logged event no_face for session 39 (Severity: 22.5)
+2026-04-02 11:56:07,510 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_39_cell phone_20260402_115607_509698.jpg
+2026-04-02 11:56:07,513 - proctorly - INFO - Logged event cell phone for session 39 (Severity: 0.0)
+2026-04-02 11:56:08,022 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_39_cell phone_20260402_115608_021694.jpg
+2026-04-02 11:56:08,025 - proctorly - INFO - Logged event cell phone for session 39 (Severity: 0.0)
+2026-04-02 11:56:10,218 - proctorly - INFO - Client disconnected from lesson 39
+2026-04-02 11:56:10,227 - proctorly - INFO - Ended exam session 39 with status completed and risk 22.5
+2026-04-02 11:56:10,398 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_39.pdf
+2026-04-02 11:58:35,258 - proctorly - INFO - Shutting down...
+2026-04-02 11:58:54,708 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-02 11:58:54,720 - proctorly - INFO - Initializing Database...
+2026-04-02 11:59:15,723 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 11:59:21,268 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:00:29,773 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:00:29,803 - proctorly - INFO - Started exam session 40 for user 15
+2026-04-02 12:00:38,506 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_40_cell phone_20260402_120038_502656.jpg
+2026-04-02 12:00:38,511 - proctorly - INFO - Logged event cell phone for session 40 (Severity: 0.0)
+2026-04-02 12:00:45,965 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_40_looking_away_20260402_120045_964675.jpg
+2026-04-02 12:00:45,970 - proctorly - INFO - Logged event looking_away for session 40 (Severity: 7.0)
+2026-04-02 12:00:59,064 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_40_cell phone_20260402_120059_063333.jpg
+2026-04-02 12:00:59,068 - proctorly - INFO - Logged event cell phone for session 40 (Severity: 0.0)
+2026-04-02 12:00:59,565 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_40_cell phone_20260402_120059_563793.jpg
+2026-04-02 12:00:59,568 - proctorly - INFO - Logged event cell phone for session 40 (Severity: 0.0)
+2026-04-02 12:01:11,225 - proctorly - INFO - Client disconnected from lesson 40
+2026-04-02 12:01:11,237 - proctorly - INFO - Ended exam session 40 with status completed and risk 7.0
+2026-04-02 12:01:11,329 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_40.pdf
+2026-04-02 12:01:49,391 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 12:02:23,609 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-02 12:02:52,604 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:02:52,614 - proctorly - INFO - Started exam session 41 for user 15
+2026-04-02 12:02:53,814 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_41_multiple_faces_20260402_120253_811337.jpg
+2026-04-02 12:02:53,818 - proctorly - INFO - Logged event multiple_faces for session 41 (Severity: 35.0)
+2026-04-02 12:02:55,832 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_41_multiple_faces_20260402_120255_831129.jpg
+2026-04-02 12:02:55,836 - proctorly - INFO - Logged event multiple_faces for session 41 (Severity: 35.0)
+2026-04-02 12:02:59,803 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_41_multiple_faces_20260402_120259_801159.jpg
+2026-04-02 12:02:59,806 - proctorly - INFO - Logged event multiple_faces for session 41 (Severity: 35.0)
+2026-04-02 12:03:00,322 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_41_cell phone_20260402_120300_320148.jpg
+2026-04-02 12:03:00,323 - proctorly - WARNING - Attempted to log event for invalid or inactive session 41
+2026-04-02 12:03:01,338 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_41_multiple_faces_20260402_120301_336036.jpg
+2026-04-02 12:03:01,338 - proctorly - WARNING - Attempted to log event for invalid or inactive session 41
+2026-04-02 12:03:04,844 - proctorly - INFO - Client disconnected from lesson 41
+2026-04-02 12:03:04,857 - proctorly - INFO - Ended exam session 41 with status flagged and risk 100.0
+2026-04-02 12:03:04,938 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_41.pdf
+2026-04-02 12:07:43,858 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:07:44,534 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:07:44,544 - proctorly - INFO - Started exam session 42 for user 15
+2026-04-02 12:07:45,251 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_42_multiple_faces_20260402_120745_250087.jpg
+2026-04-02 12:07:45,253 - proctorly - INFO - Logged event multiple_faces for session 42 (Severity: 35.0)
+2026-04-02 12:07:45,751 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_42_multiple_faces_20260402_120745_750409.jpg
+2026-04-02 12:07:45,754 - proctorly - INFO - Logged event multiple_faces for session 42 (Severity: 35.0)
+2026-04-02 12:07:46,238 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_42_multiple_faces_20260402_120746_236360.jpg
+2026-04-02 12:07:46,240 - proctorly - INFO - Logged event multiple_faces for session 42 (Severity: 35.0)
+2026-04-02 12:07:46,753 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_42_multiple_faces_20260402_120746_751746.jpg
+2026-04-02 12:07:46,754 - proctorly - WARNING - Attempted to log event for invalid or inactive session 42
+2026-04-02 12:07:47,242 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_42_multiple_faces_20260402_120747_240861.jpg
+2026-04-02 12:07:47,243 - proctorly - WARNING - Attempted to log event for invalid or inactive session 42
+2026-04-02 12:07:49,901 - proctorly - INFO - Client disconnected from lesson 42
+2026-04-02 12:07:49,907 - proctorly - INFO - Ended exam session 42 with status flagged and risk 100.0
+2026-04-02 12:07:49,964 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_42.pdf
+2026-04-02 12:08:31,777 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:08:38,210 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:08:38,218 - proctorly - INFO - Started exam session 43 for user 15
+2026-04-02 12:08:47,899 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_43_looking_away_20260402_120847_896617.jpg
+2026-04-02 12:08:47,901 - proctorly - INFO - Logged event looking_away for session 43 (Severity: 7.0)
+2026-04-02 12:08:53,906 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_43_looking_away_20260402_120853_904979.jpg
+2026-04-02 12:08:53,909 - proctorly - INFO - Logged event looking_away for session 43 (Severity: 7.0)
+2026-04-02 12:09:03,438 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_43_looking_away_20260402_120903_437490.jpg
+2026-04-02 12:09:03,441 - proctorly - INFO - Logged event looking_away for session 43 (Severity: 7.0)
+2026-04-02 12:09:15,283 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_43_unauthorized_face_20260402_120915_281848.jpg
+2026-04-02 12:09:15,285 - proctorly - INFO - Logged event no_face for session 43 (Severity: 22.5)
+2026-04-02 12:09:24,536 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_43_cell phone_20260402_120924_533764.jpg
+2026-04-02 12:09:24,538 - proctorly - INFO - Logged event cell phone for session 43 (Severity: 0.0)
+2026-04-02 12:09:27,159 - proctorly - INFO - Client disconnected from lesson 43
+2026-04-02 12:09:27,163 - proctorly - INFO - Ended exam session 43 with status completed and risk 43.5
+2026-04-02 12:09:27,260 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_43.pdf
+2026-04-02 12:26:08,682 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:26:20,047 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:26:30,859 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:26:45,637 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:26:49,012 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:26:49,022 - proctorly - INFO - Started exam session 44 for user 15
+2026-04-02 12:26:49,834 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_44_multiple_faces_20260402_122649_831396.jpg
+2026-04-02 12:26:49,836 - proctorly - INFO - Logged event multiple_faces for session 44 (Severity: 35.0)
+2026-04-02 12:26:50,237 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_44_multiple_faces_20260402_122650_235969.jpg
+2026-04-02 12:26:50,239 - proctorly - INFO - Logged event multiple_faces for session 44 (Severity: 35.0)
+2026-04-02 12:26:50,731 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_44_multiple_faces_20260402_122650_730562.jpg
+2026-04-02 12:26:50,734 - proctorly - INFO - Logged event multiple_faces for session 44 (Severity: 35.0)
+2026-04-02 12:26:54,744 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_44_multiple_faces_20260402_122654_742645.jpg
+2026-04-02 12:26:54,745 - proctorly - WARNING - Attempted to log event for invalid or inactive session 44
+2026-04-02 12:26:55,236 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_44_cell phone_20260402_122655_235515.jpg
+2026-04-02 12:26:55,237 - proctorly - WARNING - Attempted to log event for invalid or inactive session 44
+2026-04-02 12:26:58,591 - proctorly - INFO - Client disconnected from lesson 44
+2026-04-02 12:26:58,605 - proctorly - INFO - Ended exam session 44 with status flagged and risk 100.0
+2026-04-02 12:26:58,687 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_44.pdf
+2026-04-02 12:27:15,283 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:27:20,872 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:27:21,869 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:27:21,874 - proctorly - INFO - Started exam session 45 for user 15
+2026-04-02 12:27:23,588 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_45_multiple_faces_20260402_122723_586286.jpg
+2026-04-02 12:27:23,591 - proctorly - INFO - Logged event multiple_faces for session 45 (Severity: 35.0)
+2026-04-02 12:27:27,108 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_45_multiple_faces_20260402_122727_107074.jpg
+2026-04-02 12:27:27,112 - proctorly - INFO - Logged event multiple_faces for session 45 (Severity: 35.0)
+2026-04-02 12:27:28,604 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_45_remote_20260402_122728_603387.jpg
+2026-04-02 12:27:28,606 - proctorly - INFO - Logged event remote for session 45 (Severity: 0.0)
+2026-04-02 12:27:29,104 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_45_multiple_faces_20260402_122729_102833.jpg
+2026-04-02 12:27:29,106 - proctorly - INFO - Logged event multiple_faces for session 45 (Severity: 35.0)
+2026-04-02 12:27:29,613 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_45_multiple_faces_20260402_122729_611652.jpg
+2026-04-02 12:27:29,614 - proctorly - WARNING - Attempted to log event for invalid or inactive session 45
+2026-04-02 12:27:38,648 - proctorly - INFO - Client disconnected from lesson 45
+2026-04-02 12:27:38,655 - proctorly - INFO - Ended exam session 45 with status flagged and risk 100.0
+2026-04-02 12:27:38,748 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_45.pdf
+2026-04-02 12:27:47,007 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:27:51,072 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:27:51,079 - proctorly - INFO - Started exam session 46 for user 15
+2026-04-02 12:27:56,591 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_46_unauthorized_face_20260402_122756_590854.jpg
+2026-04-02 12:27:56,595 - proctorly - INFO - Logged event no_face for session 46 (Severity: 22.5)
+2026-04-02 12:27:56,710 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_46_looking_away_20260402_122756_709418.jpg
+2026-04-02 12:27:56,713 - proctorly - INFO - Logged event looking_away for session 46 (Severity: 7.0)
+2026-04-02 12:27:58,807 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_46_multiple_faces_20260402_122758_806070.jpg
+2026-04-02 12:27:58,809 - proctorly - INFO - Logged event multiple_faces for session 46 (Severity: 35.0)
+2026-04-02 12:27:59,302 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_46_multiple_faces_20260402_122759_301492.jpg
+2026-04-02 12:27:59,304 - proctorly - INFO - Logged event multiple_faces for session 46 (Severity: 35.0)
+2026-04-02 12:27:59,807 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_46_multiple_faces_20260402_122759_806200.jpg
+2026-04-02 12:27:59,807 - proctorly - WARNING - Attempted to log event for invalid or inactive session 46
+2026-04-02 12:28:05,014 - proctorly - INFO - Client disconnected from lesson 46
+2026-04-02 12:28:05,020 - proctorly - INFO - Ended exam session 46 with status flagged and risk 99.5
+2026-04-02 12:28:05,109 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_46.pdf
+2026-04-02 12:33:31,382 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:33:31,389 - proctorly - INFO - Started exam session 47 for user 15
+2026-04-02 12:33:37,028 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_47_looking_away_20260402_123337_026981.jpg
+2026-04-02 12:33:37,034 - proctorly - INFO - Logged event looking_away for session 47 (Severity: 7.0)
+2026-04-02 12:33:45,135 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_47_cell phone_20260402_123345_133754.jpg
+2026-04-02 12:33:45,138 - proctorly - INFO - Logged event cell phone for session 47 (Severity: 0.0)
+2026-04-02 12:33:45,631 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_47_cell phone_20260402_123345_629196.jpg
+2026-04-02 12:33:45,633 - proctorly - INFO - Logged event cell phone for session 47 (Severity: 0.0)
+2026-04-02 12:33:59,176 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_47_multiple_faces_20260402_123359_173872.jpg
+2026-04-02 12:33:59,179 - proctorly - INFO - Logged event multiple_faces for session 47 (Severity: 35.0)
+2026-04-02 12:34:08,728 - proctorly - INFO - Client disconnected from lesson 47
+2026-04-02 12:34:08,733 - proctorly - INFO - Ended exam session 47 with status completed and risk 42.0
+2026-04-02 12:34:08,832 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_47.pdf
+2026-04-02 12:35:13,301 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-02 12:35:16,037 - proctorly - INFO - Admin connected. Total admins: 2
+2026-04-02 12:35:23,995 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:35:26,490 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:37:14,891 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:37:15,288 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:38:40,640 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:38:42,041 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:39:09,634 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:39:12,306 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:39:12,312 - proctorly - INFO - Started exam session 48 for user 15
+2026-04-02 12:39:37,538 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_48_looking_away_20260402_123937_534686.jpg
+2026-04-02 12:39:37,542 - proctorly - INFO - Logged event looking_away for session 48 (Severity: 7.0)
+2026-04-02 12:39:47,143 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_48_cell phone_20260402_123947_141926.jpg
+2026-04-02 12:39:47,147 - proctorly - INFO - Logged event cell phone for session 48 (Severity: 0.0)
+2026-04-02 12:39:47,641 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_48_cell phone_20260402_123947_640118.jpg
+2026-04-02 12:39:47,643 - proctorly - INFO - Logged event cell phone for session 48 (Severity: 0.0)
+2026-04-02 12:39:53,162 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_48_multiple_faces_20260402_123953_160090.jpg
+2026-04-02 12:39:53,164 - proctorly - INFO - Logged event multiple_faces for session 48 (Severity: 35.0)
+2026-04-02 12:40:06,225 - proctorly - INFO - Client disconnected from lesson 48
+2026-04-02 12:40:06,235 - proctorly - INFO - Ended exam session 48 with status completed and risk 42.0
+2026-04-02 12:40:06,352 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_48.pdf
+2026-04-02 12:44:30,214 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:44:33,391 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:44:33,455 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:51:36,642 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:51:36,731 - proctorly - INFO - Admin connected. Total admins: 3
+2026-04-02 12:51:37,594 - proctorly - INFO - Admin disconnected. Total admins: 2
+2026-04-02 12:51:57,793 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:51:57,798 - proctorly - INFO - Started exam session 49 for user 14
+2026-04-02 12:52:14,062 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_49_cell phone_20260402_125214_059629.jpg
+2026-04-02 12:52:14,066 - proctorly - INFO - Logged event cell phone for session 49 (Severity: 0.0)
+2026-04-02 12:52:14,567 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_49_cell phone_20260402_125214_564912.jpg
+2026-04-02 12:52:14,569 - proctorly - INFO - Logged event cell phone for session 49 (Severity: 0.0)
+2026-04-02 12:52:15,065 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_49_cell phone_20260402_125215_062659.jpg
+2026-04-02 12:52:15,068 - proctorly - INFO - Logged event cell phone for session 49 (Severity: 0.0)
+2026-04-02 12:52:15,561 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_49_cell phone_20260402_125215_559880.jpg
+2026-04-02 12:52:15,564 - proctorly - INFO - Logged event cell phone for session 49 (Severity: 0.0)
+2026-04-02 12:52:16,061 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_49_cell phone_20260402_125216_059804.jpg
+2026-04-02 12:52:16,064 - proctorly - INFO - Logged event cell phone for session 49 (Severity: 0.0)
+2026-04-02 12:52:20,136 - proctorly - INFO - Client disconnected from lesson 49
+2026-04-02 12:52:20,139 - proctorly - INFO - Ended exam session 49 with status completed and risk 0.0
+2026-04-02 12:52:20,235 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_49.pdf
+2026-04-02 12:53:56,179 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:01,987 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:11,508 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:16,753 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:31,840 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:39,623 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:54:54,728 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:55:02,092 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:55:02,102 - proctorly - INFO - Started exam session 50 for user 14
+2026-04-02 12:55:06,088 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_50_unauthorized_face_20260402_125506_086341.jpg
+2026-04-02 12:55:06,091 - proctorly - INFO - Logged event no_face for session 50 (Severity: 22.5)
+2026-04-02 12:55:10,768 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_50_unauthorized_face_20260402_125510_765095.jpg
+2026-04-02 12:55:10,771 - proctorly - INFO - Logged event unauthorized_face for session 50 (Severity: 0.0)
+2026-04-02 12:55:14,275 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_50_unauthorized_face_20260402_125514_272954.jpg
+2026-04-02 12:55:14,277 - proctorly - INFO - Logged event unauthorized_face for session 50 (Severity: 0.0)
+2026-04-02 12:55:17,780 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_50_unauthorized_face_20260402_125517_778485.jpg
+2026-04-02 12:55:17,783 - proctorly - INFO - Logged event unauthorized_face for session 50 (Severity: 0.0)
+2026-04-02 12:55:21,297 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_50_unauthorized_face_20260402_125521_295841.jpg
+2026-04-02 12:55:21,299 - proctorly - INFO - Logged event unauthorized_face for session 50 (Severity: 0.0)
+2026-04-02 12:55:23,466 - proctorly - INFO - Client disconnected from lesson 50
+2026-04-02 12:55:23,472 - proctorly - INFO - Ended exam session 50 with status completed and risk 22.5
+2026-04-02 12:55:23,604 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_50.pdf
+2026-04-02 12:55:49,048 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:55:55,256 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:56:21,488 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:56:26,625 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:56:35,353 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:56:44,190 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:57:02,221 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:57:12,067 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:57:18,474 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:57:42,276 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:57:46,825 - proctorly - INFO - Loaded face encoding for user 14
+2026-04-02 12:58:16,277 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 12:58:16,284 - proctorly - INFO - Started exam session 51 for user 15
+2026-04-02 12:58:17,506 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_51_multiple_faces_20260402_125817_504599.jpg
+2026-04-02 12:58:17,509 - proctorly - INFO - Logged event multiple_faces for session 51 (Severity: 35.0)
+2026-04-02 12:58:17,995 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_51_multiple_faces_20260402_125817_993674.jpg
+2026-04-02 12:58:17,997 - proctorly - INFO - Logged event multiple_faces for session 51 (Severity: 35.0)
+2026-04-02 12:58:19,016 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_51_multiple_faces_20260402_125819_014563.jpg
+2026-04-02 12:58:19,018 - proctorly - INFO - Logged event multiple_faces for session 51 (Severity: 35.0)
+2026-04-02 12:58:20,030 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_51_multiple_faces_20260402_125820_029731.jpg
+2026-04-02 12:58:20,031 - proctorly - WARNING - Attempted to log event for invalid or inactive session 51
+2026-04-02 12:58:20,510 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_51_multiple_faces_20260402_125820_509071.jpg
+2026-04-02 12:58:20,511 - proctorly - WARNING - Attempted to log event for invalid or inactive session 51
+2026-04-02 12:58:27,182 - proctorly - INFO - Client disconnected from lesson 51
+2026-04-02 12:58:27,192 - proctorly - INFO - Ended exam session 51 with status flagged and risk 100.0
+2026-04-02 12:58:27,281 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_51.pdf
+2026-04-02 13:07:49,702 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-04-02 13:19:15,481 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:19:15,495 - proctorly - INFO - Started exam session 52 for user 15
+2026-04-02 13:19:17,187 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_52_tv_20260402_131917_185374.jpg
+2026-04-02 13:19:17,190 - proctorly - INFO - Logged event tv for session 52 (Severity: 0.0)
+2026-04-02 13:19:17,716 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_52_tv_20260402_131917_715699.jpg
+2026-04-02 13:19:17,718 - proctorly - INFO - Logged event tv for session 52 (Severity: 0.0)
+2026-04-02 13:19:19,235 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_52_tv_20260402_131919_233520.jpg
+2026-04-02 13:19:19,237 - proctorly - INFO - Logged event tv for session 52 (Severity: 0.0)
+2026-04-02 13:19:19,731 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_52_tv_20260402_131919_730092.jpg
+2026-04-02 13:19:19,734 - proctorly - INFO - Logged event tv for session 52 (Severity: 0.0)
+2026-04-02 13:19:20,832 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_52_tv_20260402_131920_830785.jpg
+2026-04-02 13:19:20,834 - proctorly - INFO - Logged event tv for session 52 (Severity: 0.0)
+2026-04-02 13:19:26,413 - proctorly - INFO - Client disconnected from lesson 52
+2026-04-02 13:19:26,426 - proctorly - INFO - Ended exam session 52 with status completed and risk 0.0
+2026-04-02 13:19:26,578 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_52.pdf
+2026-04-02 13:19:38,849 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:19:42,805 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:19:54,461 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:19:58,849 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:02,488 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:18,841 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:36,029 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:43,199 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:51,265 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:59,175 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:20:59,185 - proctorly - INFO - Started exam session 53 for user 15
+2026-04-02 13:21:02,845 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_53_unauthorized_face_20260402_132102_839833.jpg
+2026-04-02 13:21:02,849 - proctorly - INFO - Logged event unauthorized_face for session 53 (Severity: 0.0)
+2026-04-02 13:21:06,350 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_53_unauthorized_face_20260402_132106_349018.jpg
+2026-04-02 13:21:06,352 - proctorly - INFO - Logged event unauthorized_face for session 53 (Severity: 0.0)
+2026-04-02 13:21:09,863 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_53_unauthorized_face_20260402_132109_861574.jpg
+2026-04-02 13:21:09,866 - proctorly - INFO - Logged event unauthorized_face for session 53 (Severity: 0.0)
+2026-04-02 13:21:13,861 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_53_unauthorized_face_20260402_132113_860209.jpg
+2026-04-02 13:21:13,864 - proctorly - INFO - Logged event unauthorized_face for session 53 (Severity: 0.0)
+2026-04-02 13:21:17,369 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_53_unauthorized_face_20260402_132117_367551.jpg
+2026-04-02 13:21:17,371 - proctorly - INFO - Logged event unauthorized_face for session 53 (Severity: 0.0)
+2026-04-02 13:21:20,314 - proctorly - INFO - Client disconnected from lesson 53
+2026-04-02 13:21:20,322 - proctorly - INFO - Ended exam session 53 with status completed and risk 0.0
+2026-04-02 13:21:20,500 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_53.pdf
+2026-04-02 13:21:31,210 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:21:34,051 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:21:41,237 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:22:03,776 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:22:04,674 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:22:04,682 - proctorly - INFO - Started exam session 54 for user 15
+2026-04-02 13:22:09,921 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_54_cell phone_20260402_132209_919221.jpg
+2026-04-02 13:22:09,923 - proctorly - INFO - Logged event cell phone for session 54 (Severity: 0.0)
+2026-04-02 13:22:22,965 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_54_multiple_faces_20260402_132222_963291.jpg
+2026-04-02 13:22:22,968 - proctorly - INFO - Logged event multiple_faces for session 54 (Severity: 35.0)
+2026-04-02 13:22:25,469 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_54_multiple_faces_20260402_132225_467113.jpg
+2026-04-02 13:22:25,471 - proctorly - INFO - Logged event multiple_faces for session 54 (Severity: 35.0)
+2026-04-02 13:22:31,738 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_54_unauthorized_face_20260402_132231_736992.jpg
+2026-04-02 13:22:31,741 - proctorly - INFO - Logged event multiple_faces for session 54 (Severity: 31.5)
+2026-04-02 13:22:35,195 - proctorly - INFO - Client disconnected from lesson 54
+2026-04-02 13:22:35,203 - proctorly - INFO - Ended exam session 54 with status flagged and risk 100.0
+2026-04-02 13:22:35,342 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_54.pdf
+2026-04-02 13:23:19,423 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:23:20,439 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 13:23:20,447 - proctorly - INFO - Started exam session 55 for user 15
+2026-04-02 13:23:26,619 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_55_looking_away_20260402_132326_617817.jpg
+2026-04-02 13:23:26,622 - proctorly - INFO - Logged event looking_away for session 55 (Severity: 7.0)
+2026-04-02 13:23:32,457 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_55_unauthorized_face_20260402_132332_455927.jpg
+2026-04-02 13:23:32,459 - proctorly - INFO - Logged event no_face for session 55 (Severity: 22.5)
+2026-04-02 13:23:39,976 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_55_unauthorized_face_20260402_132339_974406.jpg
+2026-04-02 13:23:39,978 - proctorly - INFO - Logged event no_face for session 55 (Severity: 22.5)
+2026-04-02 13:23:58,673 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_55_looking_away_20260402_132358_671624.jpg
+2026-04-02 13:23:58,676 - proctorly - INFO - Logged event looking_away for session 55 (Severity: 7.0)
+2026-04-02 13:24:04,691 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_55_looking_away_20260402_132404_690729.jpg
+2026-04-02 13:24:04,694 - proctorly - INFO - Logged event looking_away for session 55 (Severity: 7.0)
+2026-04-02 13:24:06,127 - proctorly - INFO - Client disconnected from lesson 55
+2026-04-02 13:24:06,137 - proctorly - INFO - Ended exam session 55 with status completed and risk 66.0
+2026-04-02 13:24:06,298 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_55.pdf
+2026-04-02 13:24:20,340 - proctorly - INFO - Admin connected. Total admins: 2
+2026-04-02 14:12:44,865 - proctorly - INFO - Admin disconnected. Total admins: 1
+2026-04-02 14:14:31,849 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 14:14:31,855 - proctorly - INFO - Started exam session 56 for user 15
+2026-04-02 14:14:32,659 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141432_658134.jpg
+2026-04-02 14:14:32,661 - proctorly - INFO - Logged event multiple_faces for session 56 (Severity: 35.0)
+2026-04-02 14:14:33,062 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141433_060753.jpg
+2026-04-02 14:14:33,064 - proctorly - INFO - Logged event multiple_faces for session 56 (Severity: 35.0)
+2026-04-02 14:14:33,565 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141433_564582.jpg
+2026-04-02 14:14:33,568 - proctorly - INFO - Logged event multiple_faces for session 56 (Severity: 35.0)
+2026-04-02 14:14:34,058 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141434_056931.jpg
+2026-04-02 14:14:34,059 - proctorly - WARNING - Attempted to log event for invalid or inactive session 56
+2026-04-02 14:14:34,953 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141434_951696.jpg
+2026-04-02 14:14:34,953 - proctorly - WARNING - Attempted to log event for invalid or inactive session 56
+2026-04-02 14:14:35,129 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_56_multiple_faces_20260402_141435_128366.jpg
+2026-04-02 14:14:35,130 - proctorly - WARNING - Attempted to log event for invalid or inactive session 56
+2026-04-02 14:14:36,515 - proctorly - INFO - Client disconnected from lesson 56
+2026-04-02 14:14:36,519 - proctorly - INFO - Ended exam session 56 with status flagged and risk 100.0
+2026-04-02 14:14:36,604 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_56.pdf
+2026-04-02 14:16:21,942 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 14:16:23,760 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-02 14:16:23,765 - proctorly - INFO - Started exam session 57 for user 15
+2026-04-02 14:16:32,945 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_57_looking_away_20260402_141632_943231.jpg
+2026-04-02 14:16:32,948 - proctorly - INFO - Logged event looking_away for session 57 (Severity: 7.0)
+2026-04-02 14:16:37,016 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_57_cell phone_20260402_141637_014747.jpg
+2026-04-02 14:16:37,018 - proctorly - INFO - Logged event cell phone for session 57 (Severity: 0.0)
+2026-04-02 14:16:49,991 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_57_multiple_faces_20260402_141649_989285.jpg
+2026-04-02 14:16:49,995 - proctorly - INFO - Logged event multiple_faces for session 57 (Severity: 35.0)
+2026-04-02 14:16:50,494 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_57_multiple_faces_20260402_141650_493533.jpg
+2026-04-02 14:16:50,496 - proctorly - INFO - Logged event multiple_faces for session 57 (Severity: 35.0)
+2026-04-02 14:16:52,740 - proctorly - INFO - Client disconnected from lesson 57
+2026-04-02 14:16:52,746 - proctorly - INFO - Ended exam session 57 with status flagged and risk 77.0
+2026-04-02 14:16:52,833 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_57.pdf
+2026-04-02 14:17:19,298 - proctorly - INFO - Admin connected. Total admins: 2
+2026-04-15 00:54:51,320 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-15 00:54:51,352 - proctorly - INFO - Initializing Database...
+2026-04-15 00:56:38,880 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-15 00:56:42,474 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-15 01:03:07,570 - proctorly - INFO - Shutting down...
+2026-04-15 01:03:17,585 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-15 01:03:17,597 - proctorly - INFO - Initializing Database...
+2026-04-15 01:03:52,992 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-15 01:03:53,016 - proctorly - INFO - Started exam session 58 for user 15
+2026-04-15 01:04:05,528 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_58_unauthorized_face_20260415_010405_526824.jpg
+2026-04-15 01:04:05,533 - proctorly - INFO - Logged event no_face for session 58 (Severity: 22.5)
+2026-04-15 01:04:21,532 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_58_unauthorized_face_20260415_010421_530335.jpg
+2026-04-15 01:04:21,536 - proctorly - INFO - Logged event no_face for session 58 (Severity: 22.5)
+2026-04-15 01:04:27,540 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_58_unauthorized_face_20260415_010427_537493.jpg
+2026-04-15 01:04:27,544 - proctorly - INFO - Logged event no_face for session 58 (Severity: 22.5)
+2026-04-15 01:04:58,032 - proctorly - INFO - Client disconnected from lesson 58
+2026-04-15 01:04:58,040 - proctorly - INFO - Ended exam session 58 with status completed and risk 67.5
+2026-04-15 01:04:58,125 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_58.pdf
+2026-04-15 01:05:24,841 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-15 02:32:44,982 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 00:01:39,352 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-24 00:01:39,372 - proctorly - INFO - Initializing Database...
+2026-04-24 00:01:40,552 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 00:01:45,314 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 00:28:44,071 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-24 00:28:44,091 - proctorly - INFO - Started exam session 59 for user 15
+2026-04-24 00:29:02,307 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_59_cell phone_20260424_002902_304643.jpg
+2026-04-24 00:29:02,312 - proctorly - INFO - Logged event cell phone for session 59 (Severity: 0.0)
+2026-04-24 00:29:33,624 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_59_unauthorized_face_20260424_002933_623346.jpg
+2026-04-24 00:29:33,629 - proctorly - INFO - Logged event no_face for session 59 (Severity: 22.5)
+2026-04-24 00:29:41,633 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_59_unauthorized_face_20260424_002941_631319.jpg
+2026-04-24 00:29:41,636 - proctorly - INFO - Logged event no_face for session 59 (Severity: 22.5)
+2026-04-24 00:29:58,361 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_59_cell phone_20260424_002958_360595.jpg
+2026-04-24 00:29:58,364 - proctorly - INFO - Logged event cell phone for session 59 (Severity: 0.0)
+2026-04-24 00:30:01,397 - proctorly - INFO - Client disconnected from lesson 59
+2026-04-24 00:30:01,404 - proctorly - INFO - Ended exam session 59 with status completed and risk 45.0
+2026-04-24 00:30:01,493 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_59.pdf
+2026-04-24 00:30:12,288 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 00:31:02,770 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 10:49:44,269 - proctorly - INFO - Loaded YOLOv8 model successfully
+2026-04-24 10:49:44,290 - proctorly - INFO - Initializing Database...
+2026-04-24 10:50:05,107 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 10:50:06,952 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 10:55:59,665 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-24 10:55:59,675 - proctorly - INFO - Started exam session 60 for user 15
+2026-04-24 10:56:05,894 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_60_cell phone_20260424_105605_891856.jpg
+2026-04-24 10:56:05,899 - proctorly - INFO - Logged event cell phone for session 60 (Severity: 0.0)
+2026-04-24 10:56:12,901 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_60_multiple_faces_20260424_105612_899933.jpg
+2026-04-24 10:56:12,904 - proctorly - INFO - Logged event multiple_faces for session 60 (Severity: 35.0)
+2026-04-24 10:56:13,906 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_60_multiple_faces_20260424_105613_905413.jpg
+2026-04-24 10:56:13,909 - proctorly - INFO - Logged event multiple_faces for session 60 (Severity: 35.0)
+2026-04-24 10:56:27,857 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_60_looking_away_20260424_105627_856152.jpg
+2026-04-24 10:56:27,861 - proctorly - INFO - Logged event looking_away for session 60 (Severity: 7.0)
+2026-04-24 10:56:29,627 - proctorly - INFO - Client disconnected from lesson 60
+2026-04-24 10:56:29,637 - proctorly - INFO - Ended exam session 60 with status flagged and risk 77.0
+2026-04-24 10:56:29,725 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_60.pdf
+2026-04-24 10:56:42,889 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 10:57:18,328 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 12:04:22,997 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-24 12:04:23,005 - proctorly - INFO - Started exam session 61 for user 15
+2026-04-24 12:04:24,294 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_61_multiple_faces_20260424_120424_292405.jpg
+2026-04-24 12:04:24,297 - proctorly - INFO - Logged event multiple_faces for session 61 (Severity: 35.0)
+2026-04-24 12:04:25,220 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_61_multiple_faces_20260424_120425_217514.jpg
+2026-04-24 12:04:25,222 - proctorly - INFO - Logged event multiple_faces for session 61 (Severity: 35.0)
+2026-04-24 12:04:41,390 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_61_multiple_faces_20260424_120441_389162.jpg
+2026-04-24 12:04:41,394 - proctorly - INFO - Logged event multiple_faces for session 61 (Severity: 35.0)
+2026-04-24 12:04:42,388 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_61_cell phone_20260424_120442_386883.jpg
+2026-04-24 12:04:42,388 - proctorly - WARNING - Attempted to log event for invalid or inactive session 61
+2026-04-24 12:04:45,879 - proctorly - INFO - Client disconnected from lesson 61
+2026-04-24 12:04:45,887 - proctorly - INFO - Ended exam session 61 with status flagged and risk 100.0
+2026-04-24 12:04:45,963 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_61.pdf
+2026-04-24 12:05:08,411 - proctorly - INFO - Loaded face encoding for user 15
+2026-04-24 12:05:08,419 - proctorly - INFO - Started exam session 62 for user 15
+2026-04-24 12:05:12,986 - proctorly - INFO - Saved screenshot to /Users/mithilkunder/Downloads/proctorly_ai_project/data/screenshots/session_62_looking_away_20260424_120512_983862.jpg
+2026-04-24 12:05:12,989 - proctorly - INFO - Logged event looking_away for session 62 (Severity: 7.0)
+2026-04-24 12:05:20,004 - proctorly - INFO - Client disconnected from lesson 62
+2026-04-24 12:05:20,019 - proctorly - INFO - Ended exam session 62 with status completed and risk 7.0
+2026-04-24 12:05:20,055 - proctorly - INFO - Generated report at /Users/mithilkunder/Downloads/proctorly_ai_project/data/reports/report_session_62.pdf
+2026-04-24 12:05:28,713 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 12:06:08,138 - proctorly - INFO - Admin disconnected. Total admins: 0
+2026-04-24 12:06:42,802 - proctorly - INFO - Admin connected. Total admins: 1
+2026-04-24 12:08:31,434 - proctorly - INFO - Admin disconnected. Total admins: 0

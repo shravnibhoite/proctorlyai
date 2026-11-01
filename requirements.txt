@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+opencv-python
+mediapipe==0.10.14
+protobuf<5
+tensorflow<2.16
+ml-dtypes>=0.5.0
+ultralytics
+face_recognition
+reportlab
+python-multipart
+jinja2

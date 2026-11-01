@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proctorly AI - Teacher Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Load FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body class="admin-body">
+    <div id="canvas-container" style="position:fixed; top:0; left:0; width:100vw; height:100vh; z-index:-1; opacity:0.8;"></div>
+    <div class="admin-layout">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>Proctorly AI</span>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" data-target="panel-home">
+                    <i class="fa-solid fa-house"></i> Dashboard Home
+                </a>
+                <a href="#" class="nav-item" data-target="panel-exams">
+                    <i class="fa-solid fa-file-signature"></i> Exam Management
+                </a>
+                <a href="#" class="nav-item" data-target="panel-live">
+                    <i class="fa-solid fa-eye"></i> Live Monitoring
+                </a>
+                <a href="#" class="nav-item" data-target="panel-alerts">
+                    <i class="fa-solid fa-bell"></i> AI Alerts Panel
+                </a>
+                <a href="#" class="nav-item" data-target="panel-reports">
+                    <i class="fa-solid fa-chart-pie"></i> Reports & Analytics
+                </a>
+                <a href="#" class="nav-item" data-target="panel-students">
+                    <i class="fa-solid fa-users"></i> Student Management
+                </a>
+                <a href="#" class="nav-item" data-target="panel-settings">
+                    <i class="fa-solid fa-gear"></i> Settings
+                </a>
+            </nav>
+            <div class="sidebar-footer">
+                <button id="btn-logout" class="btn btn-danger" style="width: 100%;"><i class="fa-solid fa-right-from-bracket"></i> Logout</button>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="admin-content">
+            
+            <!-- 1. Dashboard Home -->
+            <section id="panel-home" class="panel active">
+                <header class="panel-header">
+                    <h2>Dashboard Home</h2>
+                </header>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon" style="color: #3b82f6;"><i class="fa-solid fa-users"></i></div>
+                        <div class="stat-info">
+                            <h3>Total Students</h3>
+                            <p id="stat-students">0</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="color: #22c55e;"><i class="fa-solid fa-file-lines"></i></div>
+                        <div class="stat-info">
+                            <h3>Active Exams</h3>
+                            <p id="stat-exams">0</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="color: #ef4444;"><i class="fa-solid fa-flag"></i></div>
+                        <div class="stat-info">
+                            <h3>Flagged Students</h3>
+                            <p id="stat-flagged">0</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 2. Exam Management -->
+            <section id="panel-exams" class="panel">
+                <header class="panel-header">
+                    <h2>Exam Management</h2>
+                </header>
+                <div class="card">
+                    <h3>Create New Exam</h3>
+                    <div class="form-grid">
+                        <input type="text" id="exam-subject" placeholder="Subject Name">
+                        <input type="number" id="exam-duration" placeholder="Duration (Minutes)">
+                        <input type="file" id="exam-questions" accept=".pdf,.doc,.docx" title="Upload Questions">
+                    </div>
+                    <button class="btn btn-primary" id="btn-create-exam" style="margin-top: 10px;">Generate Exam & Code</button>
+                    <div id="exam-code-display" style="margin-top: 10px; color: #4ade80; font-weight: bold;"></div>
+                </div>
+                
+                <div class="card" style="margin-top: 20px;">
+                    <h3>Existing Exams</h3>
+                    <table class="admin-table">
+                        <thead>
+                            <tr><th>Code</th><th>Subject</th><th>Duration</th><th>Status</th></tr>
+                        </thead>
+                        <tbody id="exam-list"></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- 3. Live Monitoring -->
+            <section id="panel-live" class="panel">
+                <header class="panel-header" style="display:flex; justify-content:space-between; align-items:center;">
+                    <h2>Live Monitoring</h2>
+                    <span class="badge badge-ongoing" id="live-connection-status">Connecting...</span>
+                </header>
+                <div class="live-grid" id="live-grid">
+                    <!-- Student feeds injected here by JS -->
+                </div>
+            </section>
+
+            <!-- 4. AI Alerts Panel -->
+            <section id="panel-alerts" class="panel">
+                <header class="panel-header">
+                    <h2>Real-Time AI Alerts</h2>
+                </header>
+                <div class="alerts-container">
+                    <div class="alerts-list" id="ai-alerts-list">
+                        <!-- Alerts injected here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- 5. Reports & Analytics -->
+            <section id="panel-reports" class="panel">
+                <header class="panel-header">
+                    <h2>Reports & Analytics</h2>
+                </header>
+                <div class="card">
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>Session ID</th>
+                                <th>Student</th>
+                                <th>Status</th>
+                                <th>Risk Score</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="reports-list"></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- 6. Student Management -->
+            <section id="panel-students" class="panel">
+                <header class="panel-header">
+                    <h2>Student Management</h2>
+                </header>
+                <div class="card">
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Username</th>
+                                <th>Full Name</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="student-list"></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- 7. Settings -->
+            <section id="panel-settings" class="panel">
+                <header class="panel-header">
+                    <h2>System Settings</h2>
+                </header>
+                <div class="card" style="max-width: 600px;">
+                    <div class="setting-row">
+                        <label>Warning Threshold (Max Warnings)</label>
+                        <input type="number" id="set-warning-limit" value="5">
+                    </div>
+                    <div class="setting-row" style="margin-top: 16px;">
+                        <label>AI Sensitivity Level (0.0 to 1.0)</label>
+                        <input type="number" step="0.1" id="set-sensitivity" value="0.7">
+                    </div>
+                    <button class="btn btn-primary" id="btn-save-settings" style="margin-top: 20px;">Save Configuration</button>
+                </div>
+            </section>
+
+        </main>
+    </div>
+    
+    <!-- We will need a specific admin JS logic -->
+    <script src="/static/js/admin.js"></script>
+
+    <!-- Background 3D Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
+    <script>
+        VANTA.NET({
+            el: "#canvas-container",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x3b82f6,
+            backgroundColor: 0x000000,
+            points: 12.00,
+            maxDistance: 22.00,
+            spacing: 18.00
+        });
+    </script>
+</body>
+</html>
